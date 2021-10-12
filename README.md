@@ -1,2 +1,3 @@
-# IoF
-Specialization Project, Internet of Fish (IoF) 
+# Realisation of an ultra-low power LPWAN embedded buoy controller
+
+Vetle Berg Abrahamsen
