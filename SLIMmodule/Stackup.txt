@@ -1,0 +1,9 @@
+Board Stackup: 
+
+Top Layer 	35µm (18µm + plating)
+- Prepreg 	0.11mm 
+Layer 2		35µm
+- Core		1.13mm
+Layer 3 	35µm
+- Prepreg	0.11mm
+Bottom Layer	35µm (18µm + plating)

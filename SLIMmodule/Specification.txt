@@ -1,0 +1,13 @@
+PCB Specification
+
+Board Material: FR4
+Color: Red
+Number of Layers: 4
+Thickness: 1.6mm
+Plated Through Hole: PTH
+Copper Thickness: 35µm (1oz)
+Solder Resist: Red, both sides
+Silk Screen: White, top side
+Surface Finish: ENIG
+Minimum Width/Spacing: 6mil
+Minimum Drill Size: 0.3mm
