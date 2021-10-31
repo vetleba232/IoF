@@ -31,7 +31,7 @@ ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=0
-OutputPath=Project Outputs for cSLIM-shield
+OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -58,7 +58,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document2]
-DocumentPath=cSLIM-shield.SchDoc
+DocumentPath=cSLIM-SA.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -75,7 +75,7 @@ GenerateClassCluster=0
 DocumentUniqueId=TXKQPTDE
 
 [Document3]
-DocumentPath=cSLIM-shield-LoRa.SchDoc
+DocumentPath=cSLIM-SA-LoRa.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -92,7 +92,7 @@ GenerateClassCluster=0
 DocumentUniqueId=OEKVZSQM
 
 [Document4]
-DocumentPath=cSLIM_RS485.SchDoc
+DocumentPath=cSLIM-SA_RS485.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -109,7 +109,7 @@ GenerateClassCluster=0
 DocumentUniqueId=DWFVZXDW
 
 [Document5]
-DocumentPath=cSLIM_RS232.SchDoc
+DocumentPath=cSLIM-SA_RS232.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -126,7 +126,7 @@ GenerateClassCluster=0
 DocumentUniqueId=GLBILOPN
 
 [Document6]
-DocumentPath=cSLIM_connectors.SchDoc
+DocumentPath=cSLIM-SA_connectors.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -143,7 +143,7 @@ GenerateClassCluster=0
 DocumentUniqueId=LKRGMASL
 
 [Document7]
-DocumentPath=cSLIM_power.SchDoc
+DocumentPath=cSLIM-SA_power.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -160,7 +160,7 @@ GenerateClassCluster=0
 DocumentUniqueId=EJXUALCP
 
 [Document8]
-DocumentPath=cSLIM_uSD.SchDoc
+DocumentPath=cSLIM-SA_uSD.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -177,7 +177,7 @@ GenerateClassCluster=0
 DocumentUniqueId=TBYGZEAX
 
 [Document9]
-DocumentPath=cSLIM_display.SchDoc
+DocumentPath=cSLIM-SA_display.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -194,7 +194,7 @@ GenerateClassCluster=0
 DocumentUniqueId=LIOBGGHH
 
 [Document10]
-DocumentPath=cSLIM_GPS.SchDoc
+DocumentPath=cSLIM-SA_GPS.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -211,7 +211,7 @@ GenerateClassCluster=0
 DocumentUniqueId=NQLNZFHC
 
 [Document11]
-DocumentPath=cSLIM_FRAM.SchDoc
+DocumentPath=cSLIM-SA_FRAM.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -228,7 +228,7 @@ GenerateClassCluster=0
 DocumentUniqueId=YDRXATAE
 
 [Document12]
-DocumentPath=cSLIM_RTC.SchDoc
+DocumentPath=cSLIM-SA_RTC.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -483,7 +483,7 @@ GenerateClassCluster=0
 DocumentUniqueId=IUFYJAKN
 
 [Document27]
-DocumentPath=cSLIM_nRF9160.SchDoc
+DocumentPath=cSLIM-SA_nRF9160.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -527,7 +527,7 @@ ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
 ConfigurationType=Source
 
 [Generic_EDE]
-OutputDir=Project Outputs for cSLIM-shield
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
@@ -1068,6 +1068,36 @@ OutputName11=Specctra Design PCB
 OutputDocumentPath11=
 OutputVariantName11=
 OutputDefault11=0
+OutputType12=Ansoft Neutral
+OutputName12=Ansoft Neutral (AutoPCB)
+OutputDocumentPath12=
+OutputVariantName12=
+OutputDefault12=0
+OutputType13=HyperLynx
+OutputName13=HyperLynx (AutoPCB)
+OutputDocumentPath13=
+OutputVariantName13=
+OutputDefault13=0
+OutputType14=Orcad v7 Capture Design
+OutputName14=Orcad v7 Capture Design (AutoSCH)
+OutputDocumentPath14=
+OutputVariantName14=
+OutputDefault14=0
+OutputType15=P-CAD ASCII
+OutputName15=P-CAD ASCII (AutoPCB)
+OutputDocumentPath15=
+OutputVariantName15=
+OutputDefault15=0
+OutputType16=P-CAD V16 Schematic Design
+OutputName16=P-CAD V16 Schematic Design (AutoSCH)
+OutputDocumentPath16=
+OutputVariantName16=
+OutputDefault16=0
+OutputType17=SiSoft
+OutputName17=SiSoft (AutoPCB)
+OutputDocumentPath17=
+OutputVariantName17=
+OutputDefault17=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
@@ -1443,12 +1473,18 @@ SelectedOnly=1
 UpdateVariants=1
 UpdateToLatestRevision=0
 PartTypes=0
-ComponentLibIdentifierKind0=Library Name And Type
-ComponentLibraryIdentifier0=cSLIM-SA.SchLib
-ComponentDesignItemID0=1SS390SMFHT2R
-ComponentSymbolReference0=1SS390SMFHT2R
+ComponentLibIdentifierKind0=Any
+ComponentLibraryIdentifier0=
+ComponentDesignItemID0=PCAL6408APWJ
+ComponentSymbolReference0=PCAL6408APWJ
 ComponentUpdate0=1
 ComponentIsDeviceSheet0=0
+ComponentLibIdentifierKind1=Library Name And Type
+ComponentLibraryIdentifier1=cSLIM-SA.SchLib
+ComponentDesignItemID1=RV-3032-C7-TA-QC
+ComponentSymbolReference1=RV-3032-C7-TA-QC
+ComponentUpdate1=0
+ComponentIsDeviceSheet1=0
 FullReplace=1
 UpdateDesignatorLock=1
 UpdatePartIDLock=1
@@ -1462,33 +1498,38 @@ RemoveParameters=0
 AddModels=1
 RemoveModels=1
 UpdateCurrentModels=1
-ParameterName0=Comment
+ParameterName0=Arrow Part Number
 ParameterUpdate0=1
-ParameterName1=Component Kind
+ParameterName1=Arrow Price/Stock
 ParameterUpdate1=1
-ParameterName2=Description
+ParameterName2=Comment
 ParameterUpdate2=1
-ParameterName3=Footprint
+ParameterName3=Component Kind
 ParameterUpdate3=1
-ParameterName4=Height
+ParameterName4=Datasheet Link
 ParameterUpdate4=1
-ParameterName5=Library Reference
+ParameterName5=Description
 ParameterUpdate5=1
-ParameterName6=Manufacturer_Name
+ParameterName6=Height
 ParameterUpdate6=1
-ParameterName7=Manufacturer_Part_Number
+ParameterName7=Library Reference
 ParameterUpdate7=1
-ParameterName8=Mouser Part Number
+ParameterName8=Manufacturer_Name
 ParameterUpdate8=1
-ParameterName9=Mouser Price/Stock
+ParameterName9=Manufacturer_Part_Number
 ParameterUpdate9=1
-ParameterName10=Value
+ParameterName10=Mouser Part Number
 ParameterUpdate10=1
+ParameterName11=Mouser Price/Stock
+ParameterUpdate11=1
 ModelTypeGroup0=PCBLIB
 ModelTypeUpdate0=1
 ModelType0=PCBLIB
-ModelName0=SODFL1608X70N
+ModelName0=RV3032C7TAQA
 ModelUpdate0=1
+ModelType1=PCBLIB
+ModelName1=SOP65P640X110-16N
+ModelUpdate1=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0
