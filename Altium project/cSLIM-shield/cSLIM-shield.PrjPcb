@@ -31,7 +31,7 @@ ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=0
-OutputPath=
+OutputPath=Project Outputs for cSLIM-shield
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -279,23 +279,6 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document15]
-DocumentPath=cSLIM-shield.PcbDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=QWTHOSYI
-
-[Document16]
 DocumentPath=cSLIM-shield.PcbDoc.LOG
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -312,7 +295,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document17]
+[Document16]
 DocumentPath=SamacSys_Parts.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -329,7 +312,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QREKTGUN
 
-[Document18]
+[Document17]
 DocumentPath=SamacSys_Parts.SchLib.LOG
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -346,7 +329,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document19]
+[Document18]
 DocumentPath=NRF52840-DK.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -363,7 +346,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WPDUBSFX
 
-[Document20]
+[Document19]
 DocumentPath=NRF52840-DK.SchLib.LOG
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -380,7 +363,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document21]
+[Document20]
 DocumentPath=SL03-GS08.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -397,7 +380,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HFMWAYIH
 
-[Document22]
+[Document21]
 DocumentPath=SL03-GS08.SchLib.LOG
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -414,7 +397,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document23]
+[Document22]
 DocumentPath=cSLIM-shield-rescue.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -431,7 +414,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BZLZCEAI
 
-[Document24]
+[Document23]
 DocumentPath=cSLIM-shield-rescue.SchLib.LOG
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -448,7 +431,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document25]
+[Document24]
 DocumentPath=cSLIM-SA.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -465,7 +448,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NCTNIXTQ
 
-[Document26]
+[Document25]
 DocumentPath=cSLIM-SA.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -482,7 +465,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IUFYJAKN
 
-[Document27]
+[Document26]
 DocumentPath=cSLIM-SA_nRF9160.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -498,6 +481,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ACBURFFZ
+
+[Document27]
+DocumentPath=cSLIM-shield.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=QWTHOSYI
 
 [Document28]
 DocumentPath=Documentation.OutJob
@@ -527,7 +527,7 @@ ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
 ConfigurationType=Source
 
 [Generic_EDE]
-OutputDir=
+OutputDir=Project Outputs for cSLIM-shield
 
 [OutputGroup1]
 Name=Netlist Outputs
@@ -705,7 +705,9 @@ OutputName10=Schematic Prints
 OutputDocumentPath10=
 OutputVariantName10=
 OutputDefault10=0
-PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.04|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A3|PaperIndex=8
+Configuration10_Name1=OutputConfigurationParameter1
+Configuration10_Item1=Record=SchPrintView|ShowNoERC=True|ShowParamSet=True|ShowProbe=True|ShowBlanket=True|NoERCSymbolsToShow="Thin Cross","Thick Cross","Small Cross",Checkbox,Triangle|ShowNote=True|ShowNoteCollapsed=True|ShowOpenEnds=True|ExpandDesignator=True|ExpandNetLabel=False|ExpandPort=False|ExpandSheetNum=False|ExpandDocNum=False|PrintArea=0|PrintAreaRect.X1=0|PrintAreaRect.Y1=0|PrintAreaRect.X2=0|PrintAreaRect.Y2=0|DocumentPath=C:\Users\vetleba\Documents\SKOLE\Fordypningsprosjekt\IoF\Altium project\cSLIM-shield\cSLIM-SA_nRF9160.SchDoc
 OutputType11=SimView Print
 OutputName11=SimView Prints
 OutputDocumentPath11=
@@ -1473,18 +1475,12 @@ SelectedOnly=1
 UpdateVariants=1
 UpdateToLatestRevision=0
 PartTypes=0
-ComponentLibIdentifierKind0=Any
-ComponentLibraryIdentifier0=
+ComponentLibIdentifierKind0=Library Name And Type
+ComponentLibraryIdentifier0=cSLIM-SA.SchLib
 ComponentDesignItemID0=PCAL6408APWJ
 ComponentSymbolReference0=PCAL6408APWJ
 ComponentUpdate0=1
 ComponentIsDeviceSheet0=0
-ComponentLibIdentifierKind1=Library Name And Type
-ComponentLibraryIdentifier1=cSLIM-SA.SchLib
-ComponentDesignItemID1=RV-3032-C7-TA-QC
-ComponentSymbolReference1=RV-3032-C7-TA-QC
-ComponentUpdate1=0
-ComponentIsDeviceSheet1=0
 FullReplace=1
 UpdateDesignatorLock=1
 UpdatePartIDLock=1
@@ -1525,11 +1521,8 @@ ParameterUpdate11=1
 ModelTypeGroup0=PCBLIB
 ModelTypeUpdate0=1
 ModelType0=PCBLIB
-ModelName0=RV3032C7TAQA
+ModelName0=SOP65P640X110-16N
 ModelUpdate0=1
-ModelType1=PCBLIB
-ModelName1=SOP65P640X110-16N
-ModelUpdate1=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0
