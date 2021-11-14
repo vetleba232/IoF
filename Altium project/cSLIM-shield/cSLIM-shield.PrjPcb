@@ -517,7 +517,7 @@ GenerateClassCluster=0
 DocumentUniqueId=QWTHOSYI
 
 [Document29]
-DocumentPath=Documentation.OutJob
+DocumentPath=cSLIM_SA.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -534,7 +534,79 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [GeneratedDocument1]
+DocumentPath=Project Outputs for cSLIM-shield\BOM\Bill of Materials-cSLIM-shield.xlsx
+DItemRevisionGUID=
+
+[GeneratedDocument2]
 DocumentPath=Project Outputs for cSLIM-shield\Design Rule Check - Test_layout.html
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for cSLIM-shield\NC Drill\Test_layout.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for cSLIM-shield\Gerber\Test_layout.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for cSLIM-shield\Gerber\Test_layout.G1
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for cSLIM-shield\Gerber\Test_layout.G2
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for cSLIM-shield\Gerber\Test_layout.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for cSLIM-shield\Gerber\Test_layout.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for cSLIM-shield\Gerber\Test_layout.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for cSLIM-shield\Gerber\Test_layout.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for cSLIM-shield\Gerber\Test_layout.GKO
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for cSLIM-shield\Gerber\Test_layout.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for cSLIM-shield\Gerber\Test_layout.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for cSLIM-shield\Gerber\Test_layout.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for cSLIM-shield\Gerber\Test_layout.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs for cSLIM-shield\NC Drill\Test_layout.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Project Outputs for cSLIM-shield\Gerber\Test_layout.REP
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Project Outputs for cSLIM-shield\Gerber\Test_layout.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Project Outputs for cSLIM-shield\NC Drill\Test_layout.TXT
 DItemRevisionGUID=
 
 [Configuration1]
