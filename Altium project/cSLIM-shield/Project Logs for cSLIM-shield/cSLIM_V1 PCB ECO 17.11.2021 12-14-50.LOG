@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=LoRa_nEnable Pin=IC203-1
+Removed Pin From Net: NetName=LoRa_nEnable Pin=IC1201-2
+Added Pin To Net: NetName=LoRa_nEnable Pin=IC1201-87
+Added Pin To Net: NetName=GND Pin=J516-1
+Added Pin To Net: NetName=VDD Pin=R203-2
+Change Net Name : Old Net Name=LoRa_nEnable New Net Name=nRF_LoRa_nCS
+Added Pin To Net: NetName=LoRa_nEnable Pin=IC203-1
+Added Pin To Net: NetName=LoRa_nEnable Pin=IC1201-2
+Added Pin To Net: NetName=LoRa_nEnable Pin=R203-1
+Added Net: Name=LoRa_nEnable

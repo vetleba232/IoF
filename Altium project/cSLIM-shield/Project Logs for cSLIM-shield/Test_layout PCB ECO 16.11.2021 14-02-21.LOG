@@ -1,0 +1,4 @@
+Change Component Kind : Designator=NT1202 Old Kind=Standard (No BOM) New Kind=Standard
+Change Component Kind : Designator=NT1201 Old Kind=Standard (No BOM) New Kind=Standard
+Added Component: Designator=TP502(TP_SMD_Ø1.0mm)
+Added Pin To Net: NetName=TBR_PPS Pin=TP502-1

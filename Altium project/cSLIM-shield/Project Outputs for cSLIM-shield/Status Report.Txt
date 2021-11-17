@@ -1,14 +1,12 @@
-Project Outputs Generation Report
----------------------------------
-Start Output Generation At 19:09:48 On 14.11.2021
-
-Output: Bill of Materials
-Type  : BOM
-From  : Variant [[No Variations]] of Project [cSLIM-shield.PrjPcb]
-   Generated File[Bill of Materials-cSLIM-shield.xlsx]
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [cSLIM_V1.PcbDoc]
+   Generated File[cSLIM_V1.TXT]
+   Generated File[cSLIM_V1.LDP]
+   Generated File[cSLIM_V1.DRR]
 
 
-Files Generated   : 1
+Files Generated   : 3
 Documents Printed : 0
 
-Finished Output Generation At 19:09:52 On 14.11.2021
+Finished Output Generation At 17:22:18 On 16.11.2021

@@ -483,7 +483,7 @@ GenerateClassCluster=0
 DocumentUniqueId=ACBURFFZ
 
 [Document27]
-DocumentPath=Test_layout.PcbDoc
+DocumentPath=cSLIM_V1.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -538,74 +538,138 @@ DocumentPath=Project Outputs for cSLIM-shield\BOM\Bill of Materials-cSLIM-shield
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for cSLIM-shield\Design Rule Check - Test_layout.html
+DocumentPath=Project Outputs for cSLIM-shield\NC Drill\cSLIM_V1.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for cSLIM-shield\NC Drill\Test_layout.DRR
+DocumentPath=Project Outputs for cSLIM-shield\Gerber\cSLIM_V1.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for cSLIM-shield\Gerber\Test_layout.EXTREP
+DocumentPath=Project Outputs for cSLIM-shield\Gerber\cSLIM_V1.G1
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for cSLIM-shield\Gerber\Test_layout.G1
+DocumentPath=Project Outputs for cSLIM-shield\Gerber\cSLIM_V1.G2
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for cSLIM-shield\Gerber\Test_layout.G2
+DocumentPath=Project Outputs for cSLIM-shield\Gerber\cSLIM_V1.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for cSLIM-shield\Gerber\Test_layout.GBL
+DocumentPath=Project Outputs for cSLIM-shield\Gerber\cSLIM_V1.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for cSLIM-shield\Gerber\Test_layout.GBO
+DocumentPath=Project Outputs for cSLIM-shield\Gerber\cSLIM_V1.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for cSLIM-shield\Gerber\Test_layout.GBP
+DocumentPath=Project Outputs for cSLIM-shield\Gerber\cSLIM_V1.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for cSLIM-shield\Gerber\Test_layout.GBS
+DocumentPath=Project Outputs for cSLIM-shield\Gerber\cSLIM_V1.GKO
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for cSLIM-shield\Gerber\Test_layout.GKO
+DocumentPath=Project Outputs for cSLIM-shield\Gerber\cSLIM_V1.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for cSLIM-shield\Gerber\Test_layout.GTL
+DocumentPath=Project Outputs for cSLIM-shield\Gerber\cSLIM_V1.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for cSLIM-shield\Gerber\Test_layout.GTO
+DocumentPath=Project Outputs for cSLIM-shield\Gerber\cSLIM_V1.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for cSLIM-shield\Gerber\Test_layout.GTP
+DocumentPath=Project Outputs for cSLIM-shield\Gerber\cSLIM_V1.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs for cSLIM-shield\Gerber\Test_layout.GTS
+DocumentPath=Project Outputs for cSLIM-shield\NC Drill\cSLIM_V1.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Project Outputs for cSLIM-shield\NC Drill\Test_layout.LDP
+DocumentPath=Project Outputs for cSLIM-shield\Gerber\cSLIM_V1.REP
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Project Outputs for cSLIM-shield\Gerber\Test_layout.REP
+DocumentPath=Project Outputs for cSLIM-shield\NC Drill\cSLIM_V1.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=Project Outputs for cSLIM-shield\Gerber\Test_layout.RUL
+DocumentPath=Project Outputs for cSLIM-shield\Design Rule Check - Test_layout.html
 DItemRevisionGUID=
 
 [GeneratedDocument19]
+DocumentPath=Project Outputs for cSLIM-shield\NC Drill\Test_layout.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=Project Outputs for cSLIM-shield\Gerber\Test_layout.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=Project Outputs for cSLIM-shield\Gerber\Test_layout.G1
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=Project Outputs for cSLIM-shield\Gerber\Test_layout.G2
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=Project Outputs for cSLIM-shield\Gerber\Test_layout.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=Project Outputs for cSLIM-shield\Gerber\Test_layout.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=Project Outputs for cSLIM-shield\Gerber\Test_layout.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=Project Outputs for cSLIM-shield\Gerber\Test_layout.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=Project Outputs for cSLIM-shield\Gerber\Test_layout.GKO
+DItemRevisionGUID=
+
+[GeneratedDocument28]
+DocumentPath=Project Outputs for cSLIM-shield\Gerber\Test_layout.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument29]
+DocumentPath=Project Outputs for cSLIM-shield\Gerber\Test_layout.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument30]
+DocumentPath=Project Outputs for cSLIM-shield\Gerber\Test_layout.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument31]
+DocumentPath=Project Outputs for cSLIM-shield\Gerber\Test_layout.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument32]
+DocumentPath=Project Outputs for cSLIM-shield\NC Drill\Test_layout.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument33]
+DocumentPath=Project Outputs for cSLIM-shield\Gerber\Test_layout.REP
+DItemRevisionGUID=
+
+[GeneratedDocument34]
+DocumentPath=Project Outputs for cSLIM-shield\Gerber\Test_layout.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument35]
 DocumentPath=Project Outputs for cSLIM-shield\NC Drill\Test_layout.TXT
 DItemRevisionGUID=
 
@@ -1540,8 +1604,8 @@ UpdateToLatestRevision=0
 PartTypes=0
 ComponentLibIdentifierKind0=Library Name And Type
 ComponentLibraryIdentifier0=cSLIM-SA.SchLib
-ComponentDesignItemID0=SKY65943-11
-ComponentSymbolReference0=SKY65943-11
+ComponentDesignItemID0=TP
+ComponentSymbolReference0=TP
 ComponentUpdate0=1
 ComponentIsDeviceSheet0=0
 FullReplace=1
@@ -1557,34 +1621,18 @@ RemoveParameters=0
 AddModels=1
 RemoveModels=1
 UpdateCurrentModels=1
-ParameterName0=Arrow Part Number
+ParameterName0=Comment
 ParameterUpdate0=1
-ParameterName1=Arrow Price/Stock
+ParameterName1=Component Kind
 ParameterUpdate1=1
-ParameterName2=Comment
+ParameterName2=Description
 ParameterUpdate2=1
-ParameterName3=Component Kind
+ParameterName3=Library Reference
 ParameterUpdate3=1
-ParameterName4=Datasheet Link
-ParameterUpdate4=1
-ParameterName5=Description
-ParameterUpdate5=1
-ParameterName6=Height
-ParameterUpdate6=1
-ParameterName7=Library Reference
-ParameterUpdate7=1
-ParameterName8=Manufacturer_Name
-ParameterUpdate8=1
-ParameterName9=Manufacturer_Part_Number
-ParameterUpdate9=1
-ParameterName10=Mouser Part Number
-ParameterUpdate10=1
-ParameterName11=Mouser Price/Stock
-ParameterUpdate11=1
 ModelTypeGroup0=PCBLIB
 ModelTypeUpdate0=1
 ModelType0=PCBLIB
-ModelName0=SKY6594311
+ModelName0=TP_SMD_Ø1.0mm
 ModelUpdate0=1
 
 [DatabaseUpdateOptions]
