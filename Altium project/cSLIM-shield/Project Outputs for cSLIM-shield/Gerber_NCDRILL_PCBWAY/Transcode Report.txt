@@ -1,0 +1,128 @@
+
+
+   ---- Transcoding 'C:\Users\vetleba\Documents\SKOLE\Fordypningsprosjekt\IoF\Altium project\cSLIM-shield\Project Outputs for cSLIM-shield\Gerber_NCDRILL_PCBWAY\cSLIM_V1.GTP' ----   Mon Nov 29 19:28:24 2021
+
+D16   --> D194
+D17   --> D195
+D18   --> D196
+D19   --> D197
+D20   --> D198
+D21   --> D199
+D22   --> D200
+D23   --> D201
+D24   --> D202
+D25   --> D203
+D26   --> D204
+D27   --> D205
+D28   --> D206
+D29   --> D207
+D30   --> D208
+D31   --> D209
+D32   --> D210
+D33   --> D211
+D34   --> D212
+D35   --> D213
+D36   --> D214
+D37   --> D215
+D38   --> D216
+D39   --> D217
+D40   --> D218
+D41   --> D219
+D42   --> D220
+D43   --> D221
+D44   --> D222
+D45   --> D223
+D46   --> D224
+D47   --> D225
+D48   --> D226
+D49   --> D227
+D50   --> D228
+D51   --> D229
+D52   --> D230
+D53   --> D231
+D54   --> D232
+D55   --> D233
+D56   --> D234
+D57   --> D235
+D58   --> D236
+D59   --> D237
+D60   --> D238
+D61   --> D239
+D62   --> D240
+D63   --> D241
+D64   --> D242
+D65   --> D243
+D66   --> D244
+D67   --> D245
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\vetleba\Documents\SKOLE\Fordypningsprosjekt\IoF\Altium project\cSLIM-shield\Project Outputs for cSLIM-shield\Gerber_NCDRILL_PCBWAY\cSLIM_V1.GTP' ----   Mon Nov 29 19:28:55 2021
+
+D16   --> D194
+D17   --> D195
+D18   --> D196
+D19   --> D197
+D20   --> D198
+D21   --> D199
+D22   --> D200
+D23   --> D201
+D24   --> D202
+D25   --> D203
+D26   --> D204
+D27   --> D205
+D28   --> D206
+D29   --> D207
+D30   --> D208
+D31   --> D209
+D32   --> D210
+D33   --> D211
+D34   --> D212
+D35   --> D213
+D36   --> D214
+D37   --> D215
+D38   --> D216
+D39   --> D217
+D40   --> D218
+D41   --> D219
+D42   --> D220
+D43   --> D221
+D44   --> D222
+D45   --> D223
+D46   --> D224
+D47   --> D225
+D48   --> D226
+D49   --> D227
+D50   --> D228
+D51   --> D229
+D52   --> D230
+D53   --> D231
+D54   --> D232
+D55   --> D233
+D56   --> D234
+D57   --> D235
+D58   --> D236
+D59   --> D237
+D60   --> D238
+D61   --> D239
+D62   --> D240
+D63   --> D241
+D64   --> D242
+D65   --> D243
+D66   --> D244
+D67   --> D245
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\vetleba\Documents\SKOLE\Fordypningsprosjekt\IoF\Altium project\cSLIM-shield\Project Outputs for cSLIM-shield\Gerber_NCDRILL_PCBWAY\cSLIM_V1.GTO' ----   Mon Nov 29 19:29:41 2021
+
+D10   --> D246
+D11   --> D247
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\vetleba\Documents\SKOLE\Fordypningsprosjekt\IoF\Altium project\cSLIM-shield\Project Outputs for cSLIM-shield\Gerber_NCDRILL_PCBWAY\cSLIM_V1.GTS' ----   Mon Nov 29 19:29:50 2021
+
+D173  --> D248
+D174  --> D249
+-----------------------------------------------------------------
