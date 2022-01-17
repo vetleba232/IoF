@@ -1,8 +1,8 @@
 Board Information Report
 Filename     : C:\Users\vetleba\Documents\SKOLE\Fordypningsprosjekt\IoF\Altium project\cSLIM-shield\cSLIM_V1.PcbDoc
-Date         : 29.11.2021
-Time         : 19:34:32
-Time Elapsed : 00:00:01
+Date         : 12.01.2022
+Time         : 10:28:53
+Time Elapsed : 00:00:00
 
 General
     Board Size, 130.302mmx55.245mm
@@ -20,7 +20,7 @@ Layer, Arcs, Pads, Vias, Tracks, Texts, Fills, Regions, ComponentBodies
     Top Layer, 10, 800, 0, 2092, 0, 3, 15, 0
     Layer 2, 0, 0, 0, 0, 0, 11, 1, 0
     Layer 3, 0, 0, 0, 267, 0, 0, 0, 0
-    Bottom Layer, 7, 0, 0, 381, 0, 0, 0, 0
+    Bottom Layer, 7, 0, 0, 385, 0, 0, 0, 0
     Mechanical 1, 0, 0, 0, 0, 0, 0, 0, 163
     Mechanical 7, 50, 0, 0, 0, 25, 0, 0, 0
     Mechanical 13, 1, 0, 0, 687, 0, 0, 0, 0
@@ -45,7 +45,7 @@ Layer, Sq.In., Sq.MM., Percent of layer
     Top Layer, 2,154, 1389,618, 19%
     Layer 2, 10,071, 6497,172, 90%
     Layer 3, 0,57, 367,81, 5%
-    Bottom Layer, 0,838, 540,823, 8%
+    Bottom Layer, 0,838, 540,941, 8%
 count : 4
 
 Non-Plated Hole Size, Pads, Vias
@@ -135,7 +135,7 @@ Track Width, Count
     0.05mm, 576
     0.1mm, 707
     0.127mm, 4
-    0.15mm, 1530
+    0.15mm, 1534
     0.1524mm, 3
     0.165mm, 58
     0.19mm, 3
