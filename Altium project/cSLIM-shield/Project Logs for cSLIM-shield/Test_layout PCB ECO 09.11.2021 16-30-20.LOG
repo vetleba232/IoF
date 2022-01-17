@@ -1,5 +1,0 @@
-Added Component: Designator=R203(RESC1608X55N)
-Add component (AddParameter): Name = "Value"; Value = "100k"; VariantName = "[No Variations]"
-Change Net Name : Old Net Name=USB_DM New Net Name=USB_D_N
-Change Net Name : Old Net Name=USB_DP New Net Name=USB_D_P
-Added Differential Pair: Name=USB_D

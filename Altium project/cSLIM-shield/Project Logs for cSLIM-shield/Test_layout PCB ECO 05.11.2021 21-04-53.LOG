@@ -1,6 +1,0 @@
-Removed Pin From Net: NetName=I2C_SDA Pin=NT1203-2
-Removed Pin From Net: NetName=i2C_SCL Pin=NT1204-2
-Removed Member From Class: ClassName=cSLIM-SA nRF9160 Member=NT1203
-Added Pin To Net: NetName=I2C_SDA Pin=IC1201-88
-Added Pin To Net: NetName=i2C_SCL Pin=IC1201-89
-Added Pin To Net: NetName=I2C_SDA Pin=R1202-1

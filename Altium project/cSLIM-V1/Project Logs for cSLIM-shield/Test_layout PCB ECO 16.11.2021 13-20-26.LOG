@@ -1,0 +1,4 @@
+Added Component: Designator=TP1204(TP_SMD_Ø1.0mm)
+Added Component: Designator=TP1214(TP_SMD_Ø1.0mm)
+Added Pin To Net: NetName=GPS_Timepulse Pin=TP1204-1
+Added Pin To Net: NetName=nRF_SIM_IO Pin=TP1214-1
