@@ -1,0 +1,1081 @@
+Change Component Comment : Designator=PB1 Old Comment= New Comment=PTS645SM43SMTR92 LFS
+Change Component Comment : Designator=PB2 Old Comment= New Comment=PTS645SM43SMTR92 LFS
+Change Component Comment : Designator=RESET Old Comment= New Comment=PTS645SM43SMTR92 LFS
+Change Component Comment : Designator=TP201 Old Comment= New Comment=TP
+Change Component Comment : Designator=TP202 Old Comment= New Comment=TP
+Change Component Comment : Designator=TP203 Old Comment= New Comment=TP
+Change Component Comment : Designator=TP301 Old Comment= New Comment=TP
+Change Component Comment : Designator=TP302 Old Comment= New Comment=TP
+Change Component Comment : Designator=TP501 Old Comment= New Comment=TP
+Change Component Comment : Designator=TP502 Old Comment= New Comment=TP
+Change Component Comment : Designator=TP504 Old Comment= New Comment=TP
+Change Component Comment : Designator=TP505 Old Comment= New Comment=TP
+Change Component Comment : Designator=TP601 Old Comment= New Comment=TP
+Change Component Comment : Designator=TP602 Old Comment= New Comment=TP
+Change Component Comment : Designator=TP603 Old Comment= New Comment=TP
+Change Component Comment : Designator=TP605 Old Comment= New Comment=TP
+Change Component Comment : Designator=TP801 Old Comment= New Comment=TP
+Change Component Comment : Designator=TP902 Old Comment= New Comment=TP
+Change Component Comment : Designator=TP904 Old Comment= New Comment=TP
+Change Component Comment : Designator=TP1001 Old Comment= New Comment=TP
+Change Component Comment : Designator=TP1101 Old Comment= New Comment=TP
+Change Component Comment : Designator=TP1201 Old Comment= New Comment=TP
+Change Component Comment : Designator=TP1202 Old Comment= New Comment=TP
+Change Component Comment : Designator=TP1203 Old Comment= New Comment=TP
+Change Component Comment : Designator=TP1206 Old Comment= New Comment=TP
+Change Component Comment : Designator=TP1212 Old Comment= New Comment=TP
+Change Component Comment : Designator=TP1213 Old Comment= New Comment=TP
+Change Component Comment : Designator=TP1214 Old Comment= New Comment=TP
+Change Component Comment : Designator=FB1201 Old Comment=120ohm 0.7A New Comment=BLM18AG121SH1D
+Change Component Comment : Designator=FB501 Old Comment=500mA New Comment=BLM18EG601SZ1D
+Change Component Comment : Designator=LED501 Old Comment=APT2012LSECK_J3-PRV New Comment=APT2012LSECK/J3-PRV
+Change Component Comment : Designator=LED502 Old Comment=APT2012LSYCK_J3-PRV New Comment=APT2012LSYCK/J3-PRV
+Change Component Comment : Designator=LED504 Old Comment=APT2012LVBC_D New Comment=APT2012LVBC/D
+Change Component Comment : Designator=LED505 Old Comment=APT2012LVBC_D New Comment=APT2012LVBC/D
+Change Component Comment : Designator=J509 Old Comment=BM05B-ZESS-TBT__LF__SN_ New Comment=BM05B-ZESS-TBT (LF)(SN)
+Change Component Comment : Designator=J510 Old Comment=BM05B-ZESS-TBT__LF__SN_ New Comment=BM05B-ZESS-TBT (LF)(SN)
+Change Component Comment : Designator=J501 Old Comment=Conn_01x02_Male New Comment=0705430001
+Change Component Comment : Designator=J301 Old Comment=Conn_01x02_Male New Comment=61300211121
+Change Component Comment : Designator=J302 Old Comment=Conn_01x02_Male New Comment=61300211121
+Change Component Comment : Designator=J505 Old Comment=Conn_01x03 New Comment=61300311121
+Change Component Comment : Designator=J515 Old Comment=Conn_01x03 New Comment=61300311121
+Change Component Comment : Designator=J502 Old Comment=Conn_01x04_Male New Comment=PH1-04-UA
+Change Component Comment : Designator=J503 Old Comment=Conn_01x06_Male New Comment=61300611121
+Change Component Comment : Designator=FB801 Old Comment=Ferrite_Bead New Comment=742792602
+Change Component Comment : Designator=FB802 Old Comment=Ferrite_Bead New Comment=742792602
+Change Component Comment : Designator=IC901 Old Comment=NEO-M9N-00B New Comment=NEO-M8N-0-10
+Change Component Comment : Designator=J508 Old Comment=SHF-105-01-L-D-SM New Comment=SHF-105-01-L-D-SM-LC-K-TR
+Change Component Comment : Designator=J512 Old Comment=SHF-105-01-L-D-SM New Comment=SHF-105-01-L-D-SM-LC-K-TR
+Change Component Comment : Designator=IC904 Old Comment=SKY55950-11 New Comment=SKY65943-11
+Change Component Comment : Designator=IC201 Old Comment=WLR089U0-I_RM New Comment=WLR089U0-I/RM
+Change Component Designator: OldDesignator=PB1 NewDesignator=PB1201
+Change Component Designator: OldDesignator=PB2 NewDesignator=PB1202
+Change Component Designator: OldDesignator=RESET NewDesignator=S601
+Change Component Description : Designator=FB1201 Old Description= New Description=Ferrite bead - 120ohm 0.7A
+Change Component Description : Designator=FB501 Old Description= New Description=Ferrite bead
+Change Component Description : Designator=FB801 Old Description= New Description=Ferrite bead
+Change Component Description : Designator=IC903 Old Description= New Description=P-Channel 20V 2A (Ta) 400mW (Ta), 2.8W (Tc) Surface Mount TO-236AB
+Change Component Description : Designator=TP201 Old Description= New Description=Test points
+Change Component Description : Designator=TP202 Old Description= New Description=Test points
+Change Component Description : Designator=TP203 Old Description= New Description=Test points
+Change Component Description : Designator=TP301 Old Description= New Description=Test points
+Change Component Description : Designator=TP302 Old Description= New Description=Test points
+Change Component Description : Designator=TP501 Old Description= New Description=Test points
+Change Component Description : Designator=TP502 Old Description= New Description=Test points
+Change Component Description : Designator=TP504 Old Description= New Description=Test points
+Change Component Description : Designator=TP505 Old Description= New Description=Test points
+Change Component Description : Designator=TP601 Old Description= New Description=Test points
+Change Component Description : Designator=TP602 Old Description= New Description=Test points
+Change Component Description : Designator=TP603 Old Description= New Description=Test points
+Change Component Description : Designator=TP605 Old Description= New Description=Test points
+Change Component Description : Designator=TP801 Old Description= New Description=Test points
+Change Component Description : Designator=TP902 Old Description= New Description=Test points
+Change Component Description : Designator=TP904 Old Description= New Description=Test points
+Change Component Description : Designator=TP1001 Old Description= New Description=Test points
+Change Component Description : Designator=TP1101 Old Description= New Description=Test points
+Change Component Description : Designator=TP1201 Old Description= New Description=Test points
+Change Component Description : Designator=TP1202 Old Description= New Description=Test points
+Change Component Description : Designator=TP1203 Old Description= New Description=Test points
+Change Component Description : Designator=TP1206 Old Description= New Description=Test points
+Change Component Description : Designator=TP1212 Old Description= New Description=Test points
+Change Component Description : Designator=TP1213 Old Description= New Description=Test points
+Change Component Description : Designator=TP1214 Old Description= New Description=Test points
+Change Component Description : Designator=A1 Old Description=Antenna New Description=700MHz, 750MHz, 850MHz, 900MHz, 1.8GHz, 1.9GHz, 2.1GHz, 2.7GHz CDMA, DCS, EDGE, GPRS, GSM, HSDPA, LTE, PCS, UMTS, WCDMA Flat Bar RF Antenna
+Change Component Description : Designator=C609 Old Description=Capacitor Polarised New Description=Aluminium Organic Polymer Capacitors 100UF 25V ESR=27
+Change Component Description : Designator=J516 Old Description=Connector New Description=Auxillary 2x3 conn
+Change Component Description : Designator=J501 Old Description=Connector New Description=BAT CONN HEADER VERT 2POS 2.54MM
+Change Component Description : Designator=J508 Old Description=Connector New Description=CONN HEADER SMD 10POS 1.27MM
+Change Component Description : Designator=J512 Old Description=Connector New Description=CONN HEADER SMD 10POS 1.27MM
+Change Component Description : Designator=J301 Old Description=Connector New Description=CONN HEADER VERT 2POS 2.54MM
+Change Component Description : Designator=J302 Old Description=Connector New Description=CONN HEADER VERT 2POS 2.54MM
+Change Component Description : Designator=J505 Old Description=Connector New Description=CONN HEADER VERT 3POS 2.54MM
+Change Component Description : Designator=J515 Old Description=Connector New Description=CONN HEADER VERT 3POS 2.54MM
+Change Component Description : Designator=J502 Old Description=Connector New Description=CONN HEADER VERT 4POS 2.54MM
+Change Component Description : Designator=J503 Old Description=Connector New Description=CONN HEADER VERT 6POS 2.54MM
+Change Component Description : Designator=J506 Old Description=Connector New Description=CONN MICRO SD CARD PUSH-PULL R/A
+Change Component Description : Designator=J507 Old Description=Connector New Description=CONN UMC JACK STR SMD
+Change Component Description : Designator=J514 Old Description=Connector New Description=CONN UMC JACK STR SMD
+Change Component Description : Designator=J802 Old Description=Connector New Description=LCD connector 
+CONN FFC BOTTOM 10POS 0.50MM R/A
+Change Component Description : Designator=J513 Old Description=Connector New Description=NANO SIM CARD PUSH-PUSH
+Change Component Description : Designator=J509 Old Description=Connector New Description=RS232/RS485  CONN HEADER SMD 5POS 1.5MM
+Change Component Description : Designator=J510 Old Description=Connector New Description=RS232/RS485  CONN HEADER SMD 5POS 1.5MM
+Change Component Description : Designator=J504 Old Description=Connector New Description=USB - mini B USB 2.0 Receptacle Connector 5 Position Through Hole
+Change Component Description : Designator=D601 Old Description=Diode New Description=RF Diode PIN - Single 35V 100 mA EMD2
+Change Component Description : Designator=D1201 Old Description=Diode ESD (Uni-directional) New Description=FILTER RC(PI) ESD SMD
+Change Component Description : Designator=IC401 Old Description=Integrated Circuit New Description=1/1 Transceiver Full RS232 16-TSSOP
+Change Component Description : Designator=IC301 Old Description=Integrated Circuit New Description=1/1 Transceiver Half RS422, RS485 8-SOIC
+Change Component Description : Designator=IC302 Old Description=Integrated Circuit New Description=1/1 Transceiver Half RS422, RS485 8-uMAX-EP|8-uSOP-EP
+Change Component Description : Designator=U501 Old Description=Integrated Circuit New Description=17V Clamp 5A (8/20µs) Ipp Tvs Diode Surface Mount SOT-23-6
+Change Component Description : Designator=U601 Old Description=Integrated Circuit New Description=Buck-Boost Switching Regulator IC Positive Adjustable 1.2V 1 Output 1.6A (Switch) 10-VFDFN Exposed Pad
+Change Component Description : Designator=IC904 Old Description=Integrated Circuit New Description=GPS LNA MODULE
+Change Component Description : Designator=IC1202 Old Description=Integrated Circuit New Description=I/O Expander 8 I2C, SMBus 400 kHz 16-TSSOP
+Change Component Description : Designator=IC1001 Old Description=Integrated Circuit New Description=IC FRAM 8MBIT SPI 20MHZ 8GQFN
+Change Component Description : Designator=IC202 Old Description=Integrated Circuit New Description=Logic Level Converter (LLC)
+Change Component Description : Designator=IC701 Old Description=Integrated Circuit New Description=Logic Level Converter (LLC)
+Change Component Description : Designator=IC902 Old Description=Integrated Circuit New Description=Logic Level Converter (LLC)
+Change Component Description : Designator=IC201 Old Description=Integrated Circuit New Description=LONG RANGE LORA MODULE (863-928
+Change Component Description : Designator=IC901 Old Description=Integrated Circuit New Description=NEO-M9N-00B should be used if available
+Change Component Description : Designator=IC601 Old Description=Integrated Circuit New Description=OR Controller Source Selector Switch N-Channel 2:1 8-TSSOP
+Change Component Description : Designator=IC203 Old Description=Integrated Circuit New Description=P-Channel 20V 2A (Ta) 400mW (Ta), 2.8W (Tc) Surface Mount TO-236AB
+Change Component Description : Designator=IC702 Old Description=Integrated Circuit New Description=P-Channel 20V 2A (Ta) 400mW (Ta), 2.8W (Tc) Surface Mount TO-236AB
+Change Component Description : Designator=Y1101 Old Description=Integrated Circuit New Description=Real Time Clock Serial I2C 16Bytes 8-Pin SON T/R
+Change Component Description : Designator=LED504 Old Description=LED New Description=LED BLUE CLEAR 2SMD
+Change Component Description : Designator=LED505 Old Description=LED New Description=LED BLUE CLEAR 2SMD
+Change Component Description : Designator=LED503 Old Description=LED New Description=LED GREEN CLEAR 2SMD
+Change Component Description : Designator=LED501 Old Description=LED New Description=LED RED CLEAR 2SMD
+Change Component Description : Designator=LED502 Old Description=LED New Description=LED YELLOW CLEAR 2SMD
+Change Component Description : Designator=Q901 Old Description=MOSFET (N-Channel) New Description=IC PWR SWITCH P-CHAN 1:1 SC89-6
+Change Component Description : Designator=PB1201 Old Description=Switch 4-pi. used 1-3 (2-4 not in use) New Description=SWITCH TACTILE SPST-NO 0.05A 12V -  used 1-3 (2-4 not in use)
+Change Component Description : Designator=PB1202 Old Description=Switch 4-pi. used 1-3 (2-4 not in use) New Description=SWITCH TACTILE SPST-NO 0.05A 12V -  used 1-3 (2-4 not in use)
+Change Component Description : Designator=S601 Old Description=Switch 4-pi. used 1-3 (2-4 not in use) New Description=SWITCH TACTILE SPST-NO 0.05A 12V -  used 1-3 (2-4 not in use)
+Change Component Description : Designator=S201 Old Description=Switch New Description=8-Pin address switch
+Change Component Library : Designator=C609 Old Library=* New Library=cSLIM-SA.SchLib
+Change Component Library : Designator=IC903 Old Library=SamacSys New Library=cSLIM-SA.SchLib
+Change Component Kind : Designator=NT1202 Old Kind=Standard New Kind=Standard (No BOM)
+Change Component Kind : Designator=NT1201 Old Kind=Standard New Kind=Standard (No BOM)
+Change component parameters: Designator = "C609" ("C609"); Footprint = "CAPAE660X840N"; UniqueID = "\ASLVMRUV\XVGEOMGK" ("\ASLVMRUV\XVGEOMGK")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/2/PCH1E101MCL4GS.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Fitted"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "8.4mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Nichicon"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "PCH1E101MCL4GS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "647-PCH1E101MCL4GS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Nichicon/PCH1E101MCL4GS?qs=vmHwEFxEFR%252Bar6ugXaASOA%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D601" ("D601"); Footprint = "SODFL1608X70N"; UniqueID = "\ASLVMRUV\OEMXRVQQ" ("\ASLVMRUV\OEMXRVQQ")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/2/1SS390SMFHT2R.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Fitted"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.7mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "ROHM Semiconductor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "1SS390SMFHT2R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "755-1SS390SMFHT2R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/ROHM-Semiconductor/1SS390SMFHT2R?qs=0lSvoLzn4L%2FO2HkvK5CJsQ%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D1201" ("D1201"); Footprint = "CM140203CP"; UniqueID = "\TPHWRTUV\ASUJHQQI" ("\TPHWRTUV\ASUJHQQI")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "CM1402-03CP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/cm1402-03cp/on-semiconductor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.onsemi.com/pub/Collateral/CM1402-D.PDF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Fitted"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.72mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CM1402-03CP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "748-CM1402-03CP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/onsemi/CM1402-03CP?qs=lLuKAerq7nnG203YjtyI%252BA%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "IC201" ("IC201"); Footprint = "WLR089U0IRM"; UniqueID = "\NWNZLOMI\BACEXHEX" ("\NWNZLOMI\BACEXHEX")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "WLR089U0-I/RM"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/wlr089u0-irm/microchip-technology"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://ww1.microchip.com/downloads/en/DeviceDoc/WLR089U0-Low-Power-LoRa-Sub-GHz-Module-Data-Sheet-DS70005435A.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Fitted"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "2.8mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Microchip"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "WLR089U0-I/RM"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "579-WLR089U0-I/RM"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Microchip-Technology/WLR089U0-I-RM?qs=W%2FMpXkg%252BdQ4sfSMsQUYuNg%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "IC202" ("IC202"); Footprint = "SOP65P640X120-16N"; UniqueID = "\NWNZLOMI\JEPGKHSN" ("\NWNZLOMI\JEPGKHSN")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "SN74AVC4T774PWR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/sn74avc4t774pwr/texas-instruments?region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://www.ti.com/lit/gpn/sn74avc4t774"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Fitted"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "1.2mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SN74AVC4T774PWR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "595-SN74AVC4T774PWR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/SN74AVC4T774PWR?qs=WxL8HmPi5r562Eu%2F2kE2LA%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "IC203" ("IC203"); Footprint = "SOT95P230X110-3N"; UniqueID = "\NWNZLOMI\SIBTYFDR" ("\NWNZLOMI\SIBTYFDR")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "NX2301P,215"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/nx2301p215/nexperia"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://www.nxp.com/documents/data_sheet/NX2301P.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Fitted"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "1.1mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Nexperia"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "NX2301P,215"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "771-NX2301P215"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Nexperia/NX2301P215?qs=A1cBxND5mHKs%252BLrxCDENxw%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "IC301" ("IC301"); Footprint = "SOIC127P600X175-8N"; UniqueID = "\VGUZCQBG\JOWIHPTE" ("\VGUZCQBG\JOWIHPTE")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://datasheets.maximintegrated.com/en/ds/MAX3483-MAX3491.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Fitted"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "1.75mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Maxim Integrated"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "MAX3486ESA+"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "700-MAX3486ESA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Maxim-Integrated/MAX3486ESA%2b?qs=1THa7WoU59FIrgcgBLF9fg%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "IC302" ("IC302"); Footprint = "SOP65P490X110-8N"; UniqueID = "\VGUZCQBG\VZQPLBSC" ("\VGUZCQBG\VZQPLBSC")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://docs-emea.rs-online.com/webdocs/0f71/0900766b80f719c9.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Fitted"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "1.1mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Maxim Integrated"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "MAX3471EUA+"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "700-MAX3471EUA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Maxim-Integrated/MAX3471EUA%2b?qs=1THa7WoU59GPWTW%252BBV1kJA%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "IC401" ("IC401"); Footprint = "SOP65P640X110-16N"; UniqueID = "\AQDHBDVZ\EMNOWJTW" ("\AQDHBDVZ\EMNOWJTW")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://datasheets.maximintegrated.com/en/ds/MAX3221-MAX3243.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Fitted"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "1.1mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Maxim Integrated"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "MAX3221CUE+"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "700-MAX3221CUE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Maxim-Integrated/MAX3221CUE%2b?qs=1THa7WoU59EZwCeWs5OtSQ%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "IC601" ("IC601"); Footprint = "SOP65P640X120-8N"; UniqueID = "\ASLVMRUV\MLATFQWB" ("\ASLVMRUV\MLATFQWB")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "TPS2113PWR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/tps2113pwr/texas-instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://www.ti.com/lit/ds/symlink/tps2113.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Fitted"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "1.2mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TPS2113PWR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "595-TPS2113PWR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TPS2113PWR?qs=ojKcPFmCWSUJzuMPtPVtlA%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "IC701" ("IC701"); Footprint = "SOP65P640X120-16N"; UniqueID = "\IIUZVQSQ\RSHSWCMD" ("\IIUZVQSQ\RSHSWCMD")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "SN74AVC4T774PWR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/sn74avc4t774pwr/texas-instruments?region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://www.ti.com/lit/gpn/sn74avc4t774"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Fitted"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "1.2mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SN74AVC4T774PWR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "595-SN74AVC4T774PWR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/SN74AVC4T774PWR?qs=WxL8HmPi5r562Eu%2F2kE2LA%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "IC702" ("IC702"); Footprint = "SOT95P230X110-3N"; UniqueID = "\IIUZVQSQ\FXLLTHVA" ("\IIUZVQSQ\FXLLTHVA")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "NX2301P,215"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/nx2301p215/nexperia"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://www.nxp.com/documents/data_sheet/NX2301P.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Fitted"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "1.1mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Nexperia"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "NX2301P,215"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "771-NX2301P215"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Nexperia/NX2301P215?qs=A1cBxND5mHKs%252BLrxCDENxw%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "IC902" ("IC902"); Footprint = "SOP65P640X120-16N"; UniqueID = "\UOYBLRAZ\PHAEGDPO" ("\UOYBLRAZ\PHAEGDPO")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "SN74AVC4T774PWR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/sn74avc4t774pwr/texas-instruments?region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://www.ti.com/lit/gpn/sn74avc4t774"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Fitted"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "1.2mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SN74AVC4T774PWR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "595-SN74AVC4T774PWR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/SN74AVC4T774PWR?qs=WxL8HmPi5r562Eu%2F2kE2LA%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "IC904" ("IC904"); Footprint = "SKY6594311"; UniqueID = "\UOYBLRAZ\FFOVJRPP" ("\UOYBLRAZ\FFOVJRPP")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.datasheetarchive.com/originals/distributors/DKDS41/DSANUWW0028396.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Fitted"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.7mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Skyworks"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SKY65943-11"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "873-SKY65943-11"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Skyworks-Solutions-Inc/SKY65943-11?qs=w%2Fv1CP2dgqpnHmrnB1Mkow%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "IC1001" ("IC1001"); Footprint = "SON65P323X328X55-8N"; UniqueID = "\BIJDLTVV\LAEDUKED" ("\BIJDLTVV\LAEDUKED")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "CY15B108QN-20LPXC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/cy15b108qn-20lpxc/cypress-semiconductor?region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.arrow.com/en/products/cy15b108qn-20lpxc/cypress-semiconductor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Fitted"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Cypress Semiconductor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CY15B108QN-20LPXC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "727-CY15B108QN20LPXC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Cypress-Semiconductor/CY15B108QN-20LPXC?qs=P1JMDcb91o5srFPNWUxrEA%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "IC1202" ("IC1202"); Footprint = "SOP65P640X110-16N"; UniqueID = "\TPHWRTUV\MYLTCVSG" ("\TPHWRTUV\MYLTCVSG")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "PCAL6408APWJ"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/pcal6408apwj/nxp-semiconductors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://www.nxp.com/docs/en/data-sheet/PCAL6408A.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Fitted"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "1.1mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "NXP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "PCAL6408APWJ"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "771-PCAL6408APWJ"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/NXP-Semiconductors/PCAL6408APWJ?qs=1sbE9T7hb3ayrs2xEWMTlg%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J301" ("J301"); Footprint = "HDRV2W110P0X254_1X2_508X254X854P"; UniqueID = "\VGUZCQBG\YCXVFBOQ" ("\VGUZCQBG\YCXVFBOQ")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/2/61300211121.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Fitted"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "8.54mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "61300211121"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "710-61300211121"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/61300211121?qs=t4813l51qx%252B1A5GYDQxPlw%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J302" ("J302"); Footprint = "HDRV2W110P0X254_1X2_508X254X854P"; UniqueID = "\VGUZCQBG\GCPTHDUN" ("\VGUZCQBG\GCPTHDUN")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/2/61300211121.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Fitted"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "8.54mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "61300211121"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "710-61300211121"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/61300211121?qs=t4813l51qx%252B1A5GYDQxPlw%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J501" ("J501"); Footprint = "SHDR2W64P0X254_1X2_737X660X1181P"; UniqueID = "\OBAILVUA\OYGKCNUY" ("\OBAILVUA\OYGKCNUY")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://www.molex.com/pdm_docs/sd/705430001_sd.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Fitted"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "11.81mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Molex"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "70543-0001"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "538-70543-0001"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Molex/70543-0001?qs=tYx%252BZc2nXqpCsE0XoulATg%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J502" ("J502"); Footprint = "HDRV4W64P0X254_1X4_1016X250X901P"; UniqueID = "\OBAILVUA\YPAYJELO" ("\OBAILVUA\YPAYJELO")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "PH1-04-UA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/ph1-04-ua/adam-tech"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/22522227e000bb8d8f26a3580c1bb98b.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Fitted"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "9.008mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Adam Tech"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "PH1-04-UA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "J503" ("J503"); Footprint = "HDRV6W64P0X254_1X6_1524X254X869P"; UniqueID = "\OBAILVUA\FJAKAQMH" ("\OBAILVUA\FJAKAQMH")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/2/61300611121.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Fitted"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "8.69mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "61300611121"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "710-61300611121"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/61300611121?qs=t4813l51qx%2FRpdf0Kp1HlQ%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J504" ("J504"); Footprint = "10119313302TLF"; UniqueID = "\OBAILVUA\UJOBVAVK" ("\OBAILVUA\UJOBVAVK")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "10119313-302TLF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/10119313-302tlf/amphenol-fci"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.arrow.com/en/products/10119313-302tlf/amphenol-fci"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Fitted"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "9.55mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Amphenol"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "10119313-302TLF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "649-10119313-302TLF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Amphenol-FCI/10119313-302TLF?qs=QcFhgjUTvvpTzLjwlVEXAA%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J505" ("J505"); Footprint = "HDRV3W64P0X254_1X3_762X254X869P"; UniqueID = "\OBAILVUA\TJMIWRSL" ("\OBAILVUA\TJMIWRSL")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://katalog.we-online.de/em/datasheet/6130xx11121.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Fitted"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "8.69mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "61300311121"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "710-61300311121"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/61300311121?qs=PhR8RmCirEYxRWFJzNKsUw%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J506" ("J506"); Footprint = "1040310811"; UniqueID = "\OBAILVUA\TDHTVIDP" ("\OBAILVUA\TDHTVIDP")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://www.molex.com/webdocs/datasheets/pdf/en-us/1040310811_MEMORY_CARD_SOCKET.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Fitted"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Molex"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "104031-0811"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "538-104031-0811"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Molex/104031-0811?qs=udsGRKD4nA3Tvy7wqky%252BuA%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J507" ("J507"); Footprint = "CONUFL001-SMD"; UniqueID = "\OBAILVUA\CLHTAGPV" ("\OBAILVUA\CLHTAGPV")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://linxtechnologies.com/wp/product/mhf-rf-connectors/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Fitted"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Linx Technologies"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CONUFL001-SMD-T"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "712-CONUFL001-SMD-T"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Linx-Technologies/CONUFL001-SMD-T?qs=EU6FO9ffTwfRdkBeQTdJWQ%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J508" ("J508"); Footprint = "SHF10501LDSMLCKTR"; UniqueID = "\OBAILVUA\OLPCEODR" ("\OBAILVUA\OLPCEODR")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://suddendocs.samtec.com/prints/shf-1xx-01-x-d-xx-xx-xx-mkt.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Fitted"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "5.33mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Samtech"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SHF-105-01-L-D-SM-LC-K-TR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "J509" ("J509"); Footprint = "BM05BZESSTBTLFSN"; UniqueID = "\OBAILVUA\WUGIEXRI" ("\OBAILVUA\WUGIEXRI")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "BM05B-ZESS-TBT (LF)(SN)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/bm05b-zess-tbt-lf-sn/jst-manufacturing"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.arrow.com/en/products/bm05b-zess-tbt-lf-sn/jst-manufacturing"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Fitted"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "7.5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "JST (JAPAN SOLDERLESS TERMINALS)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "BM05B-ZESS-TBT (LF)(SN)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "J510" ("J510"); Footprint = "BM05BZESSTBTLFSN"; UniqueID = "\OBAILVUA\SOQGZTHH" ("\OBAILVUA\SOQGZTHH")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "BM05B-ZESS-TBT (LF)(SN)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/bm05b-zess-tbt-lf-sn/jst-manufacturing"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.arrow.com/en/products/bm05b-zess-tbt-lf-sn/jst-manufacturing"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Fitted"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "7.5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "JST (JAPAN SOLDERLESS TERMINALS)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "BM05B-ZESS-TBT (LF)(SN)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "J512" ("J512"); Footprint = "SHF10501LDSMLCKTR"; UniqueID = "\OBAILVUA\NLUEODEZ" ("\OBAILVUA\NLUEODEZ")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://suddendocs.samtec.com/prints/shf-1xx-01-x-d-xx-xx-xx-mkt.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Fitted"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "5.33mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Samtech"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SHF-105-01-L-D-SM-LC-K-TR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "J513" ("J513"); Footprint = "SF72S006VBAR2500"; UniqueID = "\OBAILVUA\AGRRFVFV" ("\OBAILVUA\AGRRFVFV")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/1/SF72S006VBAR2500.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Fitted"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "1.25mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "JAE Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SF72S006VBAR2500"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "656-SF72S006VBAR2500"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/JAE-Electronics/SF72S006VBAR2500?qs=zwT864VV%2FINpxlkc4yTPCw%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J514" ("J514"); Footprint = "CONUFL001-SMD"; UniqueID = "\OBAILVUA\ZMWJGFMT" ("\OBAILVUA\ZMWJGFMT")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://linxtechnologies.com/wp/product/mhf-rf-connectors/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Fitted"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Linx Technologies"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CONUFL001-SMD-T"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "712-CONUFL001-SMD-T"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Linx-Technologies/CONUFL001-SMD-T?qs=EU6FO9ffTwfRdkBeQTdJWQ%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J515" ("J515"); Footprint = "HDRV3W64P0X254_1X3_762X254X869P"; UniqueID = "\OBAILVUA\GRTWJLDL" ("\OBAILVUA\GRTWJLDL")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://katalog.we-online.de/em/datasheet/6130xx11121.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Fitted"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "8.69mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "61300311121"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "710-61300311121"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/61300311121?qs=PhR8RmCirEYxRWFJzNKsUw%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J516" ("J516"); Footprint = "HDRV6W64P254_2X3_762X495X838P"; UniqueID = "\OBAILVUA\JTMJTLRA" ("\OBAILVUA\JTMJTLRA")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "TSW-103-08-S-D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/tsw-103-08-s-d/samtec"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://suddendocs.samtec.com/catalog_english/tsw_th.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Fitted"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "8.38mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "SAMTEC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TSW-103-08-S-D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "200-TSW10308SD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Samtec/TSW-103-08-S-D?qs=rU5fayqh%252BE0V5%2FEE8QdeZQ%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J802" ("J802"); Footprint = "52746-1071"; UniqueID = "\THNZLZMH\TOCNXPHD" ("\THNZLZMH\TOCNXPHD")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://www.molex.com/pdm_docs/sd/527461071_sd.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Fitted"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Molex"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "52746-1071"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "538-52746-1071"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Molex/52746-1071?qs=gi08C7HaimYPHJccIEZoxg%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "LED501" ("LED501"); Footprint = "LEDC2012X75N"; UniqueID = "\OBAILVUA\NPUEICXG" ("\OBAILVUA\NPUEICXG")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "APT2012LSECK/J3-PRV"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/apt2012lseckj3-prv/kingbright"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://www.kingbrightusa.com/images/catalog/SPEC/APT2012LSECK-J3-PRV.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Fitted"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.75mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Kingbright"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "APT2012LSECK/J3-PRV"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "604-APT2012LSECKJ3RV"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Kingbright/APT2012LSECK-J3-PRV?qs=6oMev5NRZMEkGJkKIsAalQ%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "LED502" ("LED502"); Footprint = "LEDC2012X85N"; UniqueID = "\OBAILVUA\FCYHZWJO" ("\OBAILVUA\FCYHZWJO")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "APT2012LSYCK/J3-PRV"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/apt2012lsyckj3-prv/kingbright"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://www.kingbrightusa.com/images/catalog/SPEC/APT2012LSYCK-J3-PRV.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Fitted"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.85mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Kingbright"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "APT2012LSYCK/J3-PRV"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "604-APT2012LSYCKJ3RV"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Kingbright/APT2012LSYCK-J3-PRV?qs=6oMev5NRZMGoWLCc4feqUg%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "LED503" ("LED503"); Footprint = "LEDC2012X85N"; UniqueID = "\OBAILVUA\PUZYNLHS" ("\OBAILVUA\PUZYNLHS")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "APT2012LZGCK"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/apt2012lzgck/kingbright"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://www.kingbrightusa.com/images/catalog/SPEC/APT2012LZGCK.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Fitted"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.85mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Kingbright"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "APT2012LZGCK"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "604-APT2012LZGCK"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Kingbright/APT2012LZGCK?qs=6oMev5NRZMHOosFiXb%2F3qw%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "LED504" ("LED504"); Footprint = "LEDC2012X85N"; UniqueID = "\OBAILVUA\WGUNSROT" ("\OBAILVUA\WGUNSROT")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "APT2012LVBC/D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/apt2012lvbcd/kingbright"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/1/APT2012LVBC_D.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Fitted"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.85mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Kingbright"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "APT2012LVBC/D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "604-APT2012LVBCD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Kingbright/APT2012LVBC-D?qs=6oMev5NRZMGErJYT6KZLXg%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "LED505" ("LED505"); Footprint = "LEDC2012X85N"; UniqueID = "\OBAILVUA\WGOSQUJX" ("\OBAILVUA\WGOSQUJX")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "APT2012LVBC/D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/apt2012lvbcd/kingbright"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/1/APT2012LVBC_D.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Fitted"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.85mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Kingbright"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "APT2012LVBC/D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "604-APT2012LVBCD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Kingbright/APT2012LVBC-D?qs=6oMev5NRZMGErJYT6KZLXg%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q901" ("Q901"); Footprint = "SOTFL50P160X60-6N"; UniqueID = "\UOYBLRAZ\NHKEYWWI" ("\UOYBLRAZ\NHKEYWWI")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "SI1040X-T1-GE3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/si1040x-t1-ge3/vishay"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.vishay.com/docs/71809/si1040x.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Fitted"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.6mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Vishay"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SI1040X-T1-GE3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "781-SI1040X-T1-GE3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Vishay-Semiconductors/SI1040X-T1-GE3?qs=tWM4QuTcS4WRJw%2FdSgdX6Q%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "S201" ("S201"); Footprint = "SOIC127P671X170-16N"; UniqueID = "\NWNZLOMI\GSXYPJDC" ("\NWNZLOMI\GSXYPJDC")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "97C08ST"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/97c08st/grayhill"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://www.grayhill.com/search/?Keywords=97C08ST"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Fitted"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "1.7mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Grayhill"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "97C08ST"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "706-97C08ST"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Grayhill/97C08ST?qs=ls7QRyWmRk6QAl4Hs3wGtw%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U501" ("U501"); Footprint = "SOT95P280X145-6N"; UniqueID = "\OBAILVUA\RTCEBOOU" ("\OBAILVUA\RTCEBOOU")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "USBLC6-2SC6"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/usblc6-2sc6/stmicroelectronics?region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/CD00050750.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Fitted"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "1.45mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "USBLC6-2SC6"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "511-USBLC6-2SC6"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/STMicroelectronics/USBLC6-2SC6?qs=po45yt2pPpu%2FhNIlwQdTlg%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U601" ("U601"); Footprint = "TPS63002DRCR"; UniqueID = "\ASLVMRUV\PFXFTONA" ("\ASLVMRUV\PFXFTONA")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "TPS63000DRCR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/tps63000drcr/texas-instruments?region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.ti.com/lit/ds/symlink/tps63000.pdf?HQS=ti-null-null-sf-df-pf-sep-wwe&ts=1593405994673"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Fitted"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "1mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TPS63000DRCR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "595-TPS63000DRCR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TPS63000DRCR?qs=QZuYiDxzHaj%2FxB6t44u%252B6Q%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Y1101" ("Y1101"); Footprint = "RV3032C7TAQA"; UniqueID = "\OYOWZKXY\QCKUDUVR" ("\OYOWZKXY\QCKUDUVR")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.microcrystal.com/fileadmin/Media/Products/RTC/Datasheet/RV-3032-C7.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Fitted"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.8mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Micro Crystal AG"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RV-3032-C7-TA-QC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "IC901" ("IC901"); Footprint = "NEOM9N00B"; UniqueID = "\UOYBLRAZ\NQSVUUPO" ("\UOYBLRAZ\NQSVUUPO")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.u-blox.com/sites/default/files/NEO-M9N_DataSheet_%28UBX-19014285%29.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Fitted"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "2.6mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "U-Blox"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "NEO-M8N-0-10"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "377-NEO-M9N-00B"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/u-blox/NEO-M9N-00B?qs=DPoM0jnrROVeJ6BHpcwcjw%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "IC1201" ("IC1201"); Footprint = "XCVR_NRF9160-SICA-R7"; UniqueID = "\TPHWRTUV\KXFKIGLZ" ("\TPHWRTUV\KXFKIGLZ")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Good"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Fitted"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "NRF9160-SICA-R7"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Nordic Semiconductor ASA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "NRF9160-SICA-R7"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "Module Nordic Semiconductor ASA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/NRF9160-SICA-R7/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/NRF9160-SICA-R7/Nordic%20Semiconductor%20ASA/view-part/3660917/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R201" ("R201"); Footprint = "RESC1608X55N"; UniqueID = "\NWNZLOMI\QISSYXTF" ("\NWNZLOMI\QISSYXTF")
+Change component parameters (AddParameter): Name = "Fitted"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC0603FR-07100KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "100k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R202" ("R202"); Footprint = "RESC1608X55N"; UniqueID = "\NWNZLOMI\UKGLECSX" ("\NWNZLOMI\UKGLECSX")
+Change component parameters (AddParameter): Name = "Fitted"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC0603FR-07100KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "100k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R203" ("R203"); Footprint = "RESC1608X55N"; UniqueID = "\NWNZLOMI\OCGHCTCK" ("\NWNZLOMI\OCGHCTCK")
+Change component parameters (AddParameter): Name = "Fitted"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC0603FR-07100KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "100k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R301" ("R301"); Footprint = "RESC1608X55N"; UniqueID = "\VGUZCQBG\CYZJVGCI" ("\VGUZCQBG\CYZJVGCI")
+Change component parameters (AddParameter): Name = "Fitted"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RT0603DRD07120RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "120R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R302" ("R302"); Footprint = "RESC1608X55N"; UniqueID = "\VGUZCQBG\GYJWSDYD" ("\VGUZCQBG\GYJWSDYD")
+Change component parameters (AddParameter): Name = "Fitted"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC0603JR-07680RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "680R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R303" ("R303"); Footprint = "RESC1608X55N"; UniqueID = "\VGUZCQBG\SGFVXXMZ" ("\VGUZCQBG\SGFVXXMZ")
+Change component parameters (AddParameter): Name = "Fitted"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC0603JR-07680RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "680R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R501" ("R501"); Footprint = "RESC1608X55N"; UniqueID = "\OBAILVUA\QALXIXRK" ("\OBAILVUA\QALXIXRK")
+Change component parameters (AddParameter): Name = "Fitted"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC0603JR-0715RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "15R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R502" ("R502"); Footprint = "RESC1608X55N"; UniqueID = "\OBAILVUA\JQCKBIVU" ("\OBAILVUA\JQCKBIVU")
+Change component parameters (AddParameter): Name = "Fitted"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC0603JR-0715RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "15R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R503" ("R503"); Footprint = "RESC1608X55N"; UniqueID = "\OBAILVUA\JRUWRBTN" ("\OBAILVUA\JRUWRBTN")
+Change component parameters (AddParameter): Name = "Fitted"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "YJP1608-R001"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "0R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R504" ("R504"); Footprint = "RESC1608X55N"; UniqueID = "\OBAILVUA\PRUSTBCQ" ("\OBAILVUA\PRUSTBCQ")
+Change component parameters (AddParameter): Name = "Fitted"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC0603FR-07820RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "820R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R505" ("R505"); Footprint = "RESC1608X55N"; UniqueID = "\OBAILVUA\NCUCRZQC" ("\OBAILVUA\NCUCRZQC")
+Change component parameters (AddParameter): Name = "Fitted"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC0603FR-07820RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "820R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R506" ("R506"); Footprint = "RESC1608X55N"; UniqueID = "\OBAILVUA\TTJMFGEK" ("\OBAILVUA\TTJMFGEK")
+Change component parameters (AddParameter): Name = "Fitted"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC0603FR-07330RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "330R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R507" ("R507"); Footprint = "RESC1608X55N"; UniqueID = "\OBAILVUA\FNUZRIGJ" ("\OBAILVUA\FNUZRIGJ")
+Change component parameters (AddParameter): Name = "Fitted"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC0603FR-07330RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "330R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R508" ("R508"); Footprint = "RESC1608X55N"; UniqueID = "\OBAILVUA\EIRWSLKE" ("\OBAILVUA\EIRWSLKE")
+Change component parameters (AddParameter): Name = "Fitted"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "YJP1608-R001"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "0R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R509" ("R509"); Footprint = "RESC1608X55N"; UniqueID = "\OBAILVUA\UDDICOCE" ("\OBAILVUA\UDDICOCE")
+Change component parameters (AddParameter): Name = "Fitted"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "YJP1608-R001"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "0R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R510" ("R510"); Footprint = "RESC1608X55N"; UniqueID = "\OBAILVUA\GBWOWQGL" ("\OBAILVUA\GBWOWQGL")
+Change component parameters (AddParameter): Name = "Fitted"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC0603FR-07330RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "330R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R511" ("R511"); Footprint = "RESC1608X55N"; UniqueID = "\OBAILVUA\HAZMCNUP" ("\OBAILVUA\HAZMCNUP")
+Change component parameters (AddParameter): Name = "Fitted"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "YJP1608-R001"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "0R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R601" ("R601"); Footprint = "RESC1608X55N"; UniqueID = "\ASLVMRUV\MESANNBE" ("\ASLVMRUV\MESANNBE")
+Change component parameters (AddParameter): Name = "Fitted"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC0603FR-07240KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "240k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R602" ("R602"); Footprint = "RESC1608X55N"; UniqueID = "\ASLVMRUV\HMHQFGSP" ("\ASLVMRUV\HMHQFGSP")
+Change component parameters (AddParameter): Name = "Fitted"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC0603FR-131ML"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "1M"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R603" ("R603"); Footprint = "RESC1608X55N"; UniqueID = "\ASLVMRUV\EAXTVQEP" ("\ASLVMRUV\EAXTVQEP")
+Change component parameters (AddParameter): Name = "Fitted"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC0603FR-07100KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "100k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R604" ("R604"); Footprint = "RESC1608X55N"; UniqueID = "\ASLVMRUV\QKPYZLSC" ("\ASLVMRUV\QKPYZLSC")
+Change component parameters (AddParameter): Name = "Fitted"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC0603JR-07390RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "390R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R605" ("R605"); Footprint = "RESC1608X55N"; UniqueID = "\ASLVMRUV\KSYZSQRB" ("\ASLVMRUV\KSYZSQRB")
+Change component parameters (AddParameter): Name = "Fitted"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC0603FR-071KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "1k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R606" ("R606"); Footprint = "RESC1608X55N"; UniqueID = "\ASLVMRUV\AGCGEGHL" ("\ASLVMRUV\AGCGEGHL")
+Change component parameters (AddParameter): Name = "Fitted"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC0603FR-131ML"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "1M"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R607" ("R607"); Footprint = "RESC1608X55N"; UniqueID = "\ASLVMRUV\XHFYSALL" ("\ASLVMRUV\XHFYSALL")
+Change component parameters (AddParameter): Name = "Fitted"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC0603FR-07100RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "100R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R608" ("R608"); Footprint = "RESC1608X55N"; UniqueID = "\ASLVMRUV\YICIOVNO" ("\ASLVMRUV\YICIOVNO")
+Change component parameters (AddParameter): Name = "Fitted"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC0603FR-071M2L"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "1M2"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R609" ("R609"); Footprint = "RESC1608X55N"; UniqueID = "\ASLVMRUV\HBIHNZHZ" ("\ASLVMRUV\HBIHNZHZ")
+Change component parameters (AddParameter): Name = "Fitted"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC0603FR-07240KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "240k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R610" ("R610"); Footprint = "RESC1608X55N"; UniqueID = "\ASLVMRUV\WPTJMRCR" ("\ASLVMRUV\WPTJMRCR")
+Change component parameters (AddParameter): Name = "Fitted"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC0603FR-073KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "3k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R701" ("R701"); Footprint = "RESC1608X55N"; UniqueID = "\IIUZVQSQ\TBAVNZYN" ("\IIUZVQSQ\TBAVNZYN")
+Change component parameters (AddParameter): Name = "Fitted"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC0603FR-07100KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "100k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R702" ("R702"); Footprint = "RESC1608X55N"; UniqueID = "\IIUZVQSQ\XYFPFINL" ("\IIUZVQSQ\XYFPFINL")
+Change component parameters (AddParameter): Name = "Fitted"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC0603FR-07100KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "100k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R703" ("R703"); Footprint = "RESC1608X55N"; UniqueID = "\IIUZVQSQ\BXLOJVXT" ("\IIUZVQSQ\BXLOJVXT")
+Change component parameters (AddParameter): Name = "Fitted"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC0603FR-07100KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "100k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R801" ("R801"); Footprint = "RESC1608X55N"; UniqueID = "\THNZLZMH\KDZDHQVQ" ("\THNZLZMH\KDZDHQVQ")
+Change component parameters (AddParameter): Name = "Fitted"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC0603FR-07100KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "100k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R804" ("R804"); Footprint = "RESC1608X55N"; UniqueID = "\THNZLZMH\XBHJTVXU" ("\THNZLZMH\XBHJTVXU")
+Change component parameters (AddParameter): Name = "Fitted"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC0603FR-07100KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "100k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R901" ("R901"); Footprint = "RESC1608X55N"; UniqueID = "\UOYBLRAZ\XFBREFRT" ("\UOYBLRAZ\XFBREFRT")
+Change component parameters (AddParameter): Name = "Fitted"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC0603FR-07100KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "100k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R902" ("R902"); Footprint = "RESC1608X55N"; UniqueID = "\UOYBLRAZ\VQIFYXLS" ("\UOYBLRAZ\VQIFYXLS")
+Change component parameters (AddParameter): Name = "Fitted"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC0603FR-07100KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "100k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R903" ("R903"); Footprint = "RESC1608X55N"; UniqueID = "\UOYBLRAZ\HJTGJENO" ("\UOYBLRAZ\HJTGJENO")
+Change component parameters (AddParameter): Name = "Fitted"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC0603FR-07100KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "100k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R904" ("R904"); Footprint = "RESC1608X55N"; UniqueID = "\UOYBLRAZ\KKHVUAAR" ("\UOYBLRAZ\KKHVUAAR")
+Change component parameters (AddParameter): Name = "Fitted"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "YJP1608-R001"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "0R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R905" ("R905"); Footprint = "RESC1608X55N"; UniqueID = "\UOYBLRAZ\EVVUVZRV" ("\UOYBLRAZ\EVVUVZRV")
+Change component parameters (AddParameter): Name = "Fitted"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC0603FR-1310RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "10R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R906" ("R906"); Footprint = "RESC1608X55N"; UniqueID = "\UOYBLRAZ\MZESWRKP" ("\UOYBLRAZ\MZESWRKP")
+Change component parameters (AddParameter): Name = "Fitted"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC0603FR-07100KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "100k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R908" ("R908"); Footprint = "RESC1608X55N"; UniqueID = "\UOYBLRAZ\XUWREUKA" ("\UOYBLRAZ\XUWREUKA")
+Change component parameters (AddParameter): Name = "Fitted"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "YJP1608-R001"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "0R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R1001" ("R1001"); Footprint = "RESC1608X55N"; UniqueID = "\BIJDLTVV\ZZEUWQBT" ("\BIJDLTVV\ZZEUWQBT")
+Change component parameters (AddParameter): Name = "Fitted"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC0603FR-0733RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "33R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R1002" ("R1002"); Footprint = "RESC1608X55N"; UniqueID = "\BIJDLTVV\SOVPJUKI" ("\BIJDLTVV\SOVPJUKI")
+Change component parameters (AddParameter): Name = "Fitted"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC0603FR-0733RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "33R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R1003" ("R1003"); Footprint = "RESC1608X55N"; UniqueID = "\BIJDLTVV\ISQXPPRK" ("\BIJDLTVV\ISQXPPRK")
+Change component parameters (AddParameter): Name = "Fitted"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC0603FR-0749R9L"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "50R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R1101" ("R1101"); Footprint = "RESC1608X55N"; UniqueID = "\OYOWZKXY\YVTNBZTX" ("\OYOWZKXY\YVTNBZTX")
+Change component parameters (AddParameter): Name = "Fitted"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC0603FR-0710KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "10k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R1102" ("R1102"); Footprint = "RESC1608X55N"; UniqueID = "\OYOWZKXY\GHCNWVQK" ("\OYOWZKXY\GHCNWVQK")
+Change component parameters (AddParameter): Name = "Fitted"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC0603FR-07100KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "100k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R1103" ("R1103"); Footprint = "RESC1608X55N"; UniqueID = "\OYOWZKXY\CQDHVFWF" ("\OYOWZKXY\CQDHVFWF")
+Change component parameters (AddParameter): Name = "Fitted"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC0603FR-07100KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "100k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R1202" ("R1202"); Footprint = "RESC1608X55N"; UniqueID = "\TPHWRTUV\UKBJRFDA" ("\TPHWRTUV\UKBJRFDA")
+Change component parameters (AddParameter): Name = "Fitted"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC0603FR-074K7L"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "4.7k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R1203" ("R1203"); Footprint = "RESC1608X55N"; UniqueID = "\TPHWRTUV\PRNWEZBC" ("\TPHWRTUV\PRNWEZBC")
+Change component parameters (AddParameter): Name = "Fitted"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC0603FR-074K7L"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "4.7k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "PB1" ("PB1201"); Footprint = "PTS645(SMT)"; UniqueID = "\TPHWRTUV\QYDGELVI" ("\TPHWRTUV\QYDGELVI")
+Change component parameters (AddParameter): Name = "Description_"; Value = "Tactile Switches Top actuated tact, 0.9 mm travel, 7 N, 50% Tactile, J Leads, SMT, 8.6 x 8.4 x 3.95 mm, Soft Actuator"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Fitted"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "C & K COMPONENTS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TLS A 070J LFS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "611-TLSA070JLFS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/CK/TLS-A-070J-LFS?qs=GedFDFLaBXEdAqJ422mDcw%3D%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "https://www.mouser.ph/datasheet/2/60/tls-1846606.pdf"; VariantName = "[No Variations]"
+Change component parameters: Designator = "PB2" ("PB1202"); Footprint = "PTS645(SMT)"; UniqueID = "\TPHWRTUV\LMFMRNGL" ("\TPHWRTUV\LMFMRNGL")
+Change component parameters (AddParameter): Name = "Description_"; Value = "Tactile Switches Top actuated tact, 0.9 mm travel, 7 N, 50% Tactile, J Leads, SMT, 8.6 x 8.4 x 3.95 mm, Soft Actuator"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Fitted"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "C & K COMPONENTS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TLS A 070J LFS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "611-TLSA070JLFS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/CK/TLS-A-070J-LFS?qs=GedFDFLaBXEdAqJ422mDcw%3D%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "https://www.mouser.ph/datasheet/2/60/tls-1846606.pdf"; VariantName = "[No Variations]"
+Change component parameters: Designator = "RESET" ("S601"); Footprint = "PTS645(SMT)"; UniqueID = "\ASLVMRUV\UXIKUGDA" ("\ASLVMRUV\UXIKUGDA")
+Change component parameters (AddParameter): Name = "Description_"; Value = "Tactile Switches Top actuated tact, 0.9 mm travel, 7 N, 50% Tactile, J Leads, SMT, 8.6 x 8.4 x 3.95 mm, Soft Actuator"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Fitted"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "C & K COMPONENTS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TLS A 070J LFS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "611-TLSA070JLFS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/CK/TLS-A-070J-LFS?qs=GedFDFLaBXEdAqJ422mDcw%3D%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "https://www.mouser.ph/datasheet/2/60/tls-1846606.pdf"; VariantName = "[No Variations]"
+Change component parameters: Designator = "FB501" ("FB501"); Footprint = "CAPC1608X90N"; UniqueID = "\OBAILVUA\HYJIVHRO" ("\OBAILVUA\HYJIVHRO")
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "BLM18EG601SZ1D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "500 mA, 600 Ohms"; VariantName = "[No Variations]"
+Change component parameters: Designator = "FB801" ("FB801"); Footprint = "CAPC1608X90N"; UniqueID = "\THNZLZMH\YGJQLVQG" ("\THNZLZMH\YGJQLVQG")
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "742792602"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "60 OHM"; VariantName = "[No Variations]"
+Change component parameters: Designator = "FB802" ("FB802"); Footprint = "CAPC1608X90N"; UniqueID = "\THNZLZMH\NAIMQJAM" ("\THNZLZMH\NAIMQJAM")
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "742792602"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "60 OHM"; VariantName = "[No Variations]"
+Change component parameters: Designator = "FB1201" ("FB1201"); Footprint = "CAPC1608X90N"; UniqueID = "\TPHWRTUV\EFMRPFCR" ("\TPHWRTUV\EFMRPFCR")
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "BLM18AG121SH1D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "120ohm 0.7A"; VariantName = "[No Variations]"
+Change component parameters: Designator = "L901" ("L901"); Footprint = "L-1608"; UniqueID = "\UOYBLRAZ\WOZODFUS" ("\UOYBLRAZ\WOZODFUS")
+Change component parameters (AddParameter): Name = "Fitted"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "LQG18HH27NJ00D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "27nH"; VariantName = "[No Variations]"
+Change component parameters: Designator = "L902" ("L902"); Footprint = "LQW18AS10NG0CD"; UniqueID = "\UOYBLRAZ\FOLRFUUO" ("\UOYBLRAZ\FOLRFUUO")
+Change component parameters (AddParameter): Name = "Fitted"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "LQW18AN9N1D00D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "9n1"; VariantName = "[No Variations]"
+Change component parameters: Designator = "L1201" ("L1201"); Footprint = "L-1608"; UniqueID = "\TPHWRTUV\SAGYQWUZ" ("\TPHWRTUV\SAGYQWUZ")
+Change component parameters (AddParameter): Name = "Fitted"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "LQW18AN22NJ00D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "22nH"; VariantName = "[No Variations]"
+Change component parameters: Designator = "L1202" ("L1202"); Footprint = "L-1608"; UniqueID = "\TPHWRTUV\OGJLUGXM" ("\TPHWRTUV\OGJLUGXM")
+Change component parameters (AddParameter): Name = "Fitted"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "LQG18HN1N5S00D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "1.5nH"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R907" ("R907"); Footprint = "RESC1608X55N"; UniqueID = "\UOYBLRAZ\QUNFVZCO" ("\UOYBLRAZ\QUNFVZCO")
+Change component parameters (AddParameter): Name = "Fitted"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "YJP1608-R001"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "0R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R909" ("R909"); Footprint = "RESC1608X55N"; UniqueID = "\UOYBLRAZ\BWOCFUFA" ("\UOYBLRAZ\BWOCFUFA")
+Change component parameters (AddParameter): Name = "Fitted"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC0603FR-131ML"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "1M"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R1201" ("R1201"); Footprint = "RESC1608X55N"; UniqueID = "\TPHWRTUV\KYOWELGF" ("\TPHWRTUV\KYOWELGF")
+Change component parameters (AddParameter): Name = "Fitted"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC0603FR-0710KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "10k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R1204" ("R1204"); Footprint = "RESC1608X55N"; UniqueID = "\TPHWRTUV\PZRPTHYO" ("\TPHWRTUV\PZRPTHYO")
+Change component parameters (AddParameter): Name = "Fitted"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "YJP1608-R001"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "0R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R1205" ("R1205"); Footprint = "RESC1608X55N"; UniqueID = "\TPHWRTUV\ORCFOLJC" ("\TPHWRTUV\ORCFOLJC")
+Change component parameters (AddParameter): Name = "Fitted"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "YJP1608-R001"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "0R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R1206" ("R1206"); Footprint = "RESC1608X55N"; UniqueID = "\TPHWRTUV\TEZWEPFV" ("\TPHWRTUV\TEZWEPFV")
+Change component parameters (AddParameter): Name = "Fitted"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "YJP1608-R001"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "0R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R1209" ("R1209"); Footprint = "RESC1608X55N"; UniqueID = "\TPHWRTUV\ZMPYAEAE" ("\TPHWRTUV\ZMPYAEAE")
+Change component parameters (AddParameter): Name = "Fitted"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC0603FR-07100KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "100k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R1210" ("R1210"); Footprint = "RESC1608X55N"; UniqueID = "\TPHWRTUV\XSVYHXMD" ("\TPHWRTUV\XSVYHXMD")
+Change component parameters (AddParameter): Name = "Fitted"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC0603FR-07100KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "100k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R1211" ("R1211"); Footprint = "RESC1608X55N"; UniqueID = "\TPHWRTUV\CZJILNOM" ("\TPHWRTUV\CZJILNOM")
+Change component parameters (AddParameter): Name = "Fitted"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC0603FR-07100KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "100k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R1212" ("R1212"); Footprint = "RESC1608X55N"; UniqueID = "\TPHWRTUV\WHSIHSVQ" ("\TPHWRTUV\WHSIHSVQ")
+Change component parameters (AddParameter): Name = "Fitted"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC0603FR-07100KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "100k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R1213" ("R1213"); Footprint = "RESC1608X55N"; UniqueID = "\TPHWRTUV\PGWXVWCP" ("\TPHWRTUV\PGWXVWCP")
+Change component parameters (AddParameter): Name = "Fitted"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC0603FR-07100KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "100k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R1214" ("R1214"); Footprint = "RESC1608X55N"; UniqueID = "\TPHWRTUV\DHHASLUL" ("\TPHWRTUV\DHHASLUL")
+Change component parameters (AddParameter): Name = "Fitted"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC0603FR-071KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "1k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R1215" ("R1215"); Footprint = "RESC1608X55N"; UniqueID = "\TPHWRTUV\MVNIEMSE" ("\TPHWRTUV\MVNIEMSE")
+Change component parameters (AddParameter): Name = "Fitted"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC0603FR-071KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "1k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R1216" ("R1216"); Footprint = "RESC1608X55N"; UniqueID = "\TPHWRTUV\PLYOMYXZ" ("\TPHWRTUV\PLYOMYXZ")
+Change component parameters (AddParameter): Name = "Fitted"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "YJP1608-R001"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "0R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R1217" ("R1217"); Footprint = "RESC1608X55N"; UniqueID = "\TPHWRTUV\CZINHWDJ" ("\TPHWRTUV\CZINHWDJ")
+Change component parameters (AddParameter): Name = "Fitted"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "YJP1608-R001"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "0R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "IC903" ("IC903"); Footprint = "SOT95P230X110-3N"; UniqueID = "\UOYBLRAZ\INROFOIL" ("\UOYBLRAZ\INROFOIL")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "NX2301P,215"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/nx2301p215/nexperia"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://www.nxp.com/documents/data_sheet/NX2301P.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Fitted"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "1.1mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Nexperia"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "NX2301P,215"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "771-NX2301P215"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Nexperia/NX2301P215?qs=A1cBxND5mHKs%252BLrxCDENxw%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "L601" ("L601"); Footprint = "LPS3015"; UniqueID = "\ASLVMRUV\NSWLMZIG" ("\ASLVMRUV\NSWLMZIG")
+Change component parameters (AddParameter): Name = "Fitted"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "LPS3015-222MRB"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C301" ("C301"); Footprint = "CAPC1608X90N"; UniqueID = "\VGUZCQBG\XTPXAHFR" ("\VGUZCQBG\XTPXAHFR")
+Change component parameters (AddParameter): Name = "Fitted"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CL10B104KB8NNNL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C401" ("C401"); Footprint = "CAPC1608X90N"; UniqueID = "\AQDHBDVZ\PECKFFEW" ("\AQDHBDVZ\PECKFFEW")
+Change component parameters (AddParameter): Name = "Fitted"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CL10B104KB8NNNL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C402" ("C402"); Footprint = "CAPC1608X90N"; UniqueID = "\AQDHBDVZ\QCIIRAZE" ("\AQDHBDVZ\QCIIRAZE")
+Change component parameters (AddParameter): Name = "Fitted"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CL10B104KB8NNNL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C403" ("C403"); Footprint = "CAPC1608X90N"; UniqueID = "\AQDHBDVZ\GYNDAPWJ" ("\AQDHBDVZ\GYNDAPWJ")
+Change component parameters (AddParameter): Name = "Fitted"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CL10B104KB8NNNL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C404" ("C404"); Footprint = "CAPC1608X90N"; UniqueID = "\AQDHBDVZ\LHGBXIZM" ("\AQDHBDVZ\LHGBXIZM")
+Change component parameters (AddParameter): Name = "Fitted"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CL10B104KB8NNNL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C405" ("C405"); Footprint = "CAPC1608X90N"; UniqueID = "\AQDHBDVZ\BMBSTGZC" ("\AQDHBDVZ\BMBSTGZC")
+Change component parameters (AddParameter): Name = "Fitted"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CL10B104KB8NNNL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C501" ("C501"); Footprint = "CAPC1608X90N"; UniqueID = "\OBAILVUA\QLMDJFJO" ("\OBAILVUA\QLMDJFJO")
+Change component parameters (AddParameter): Name = "Fitted"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "0603N120J500CT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "12pF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C502" ("C502"); Footprint = "CAPC1608X90N"; UniqueID = "\OBAILVUA\RJBCMQRJ" ("\OBAILVUA\RJBCMQRJ")
+Change component parameters (AddParameter): Name = "Fitted"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CL10B103KB8NNNC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "10nF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C601" ("C601"); Footprint = "CAPC1608X90N"; UniqueID = "\ASLVMRUV\LHRGFRCL" ("\ASLVMRUV\LHRGFRCL")
+Change component parameters (AddParameter): Name = "Fitted"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CL10B104KB8NNNL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C602" ("C602"); Footprint = "CAPC1608X90N"; UniqueID = "\ASLVMRUV\QXBOTSIZ" ("\ASLVMRUV\QXBOTSIZ")
+Change component parameters (AddParameter): Name = "Fitted"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CL10A105KO8NNNC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "1uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C603" ("C603"); Footprint = "CAPC1608X90N"; UniqueID = "\ASLVMRUV\SHFAOUFO" ("\ASLVMRUV\SHFAOUFO")
+Change component parameters (AddParameter): Name = "Fitted"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CL10A105KO8NNNC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "1uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C604" ("C604"); Footprint = "CAPC1608X90N"; UniqueID = "\ASLVMRUV\YXYITPUY" ("\ASLVMRUV\YXYITPUY")
+Change component parameters (AddParameter): Name = "Fitted"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CL10B104KB8NNNL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C605" ("C605"); Footprint = "CAPC1608X90N"; UniqueID = "\ASLVMRUV\XWXIRDKT" ("\ASLVMRUV\XWXIRDKT")
+Change component parameters (AddParameter): Name = "Fitted"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CL10X106MP8NRNC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "10uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C606" ("C606"); Footprint = "CAPC1608X90N"; UniqueID = "\ASLVMRUV\FEHCQHZC" ("\ASLVMRUV\FEHCQHZC")
+Change component parameters (AddParameter): Name = "Fitted"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CL10B104KB8NNNL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C607" ("C607"); Footprint = "CAPC1608X90N"; UniqueID = "\ASLVMRUV\ZVIDQJGZ" ("\ASLVMRUV\ZVIDQJGZ")
+Change component parameters (AddParameter): Name = "Fitted"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CL10A226KQ8NRNE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "22uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C608" ("C608"); Footprint = "CAPC1608X90N"; UniqueID = "\ASLVMRUV\OISIPYVU" ("\ASLVMRUV\OISIPYVU")
+Change component parameters (AddParameter): Name = "Fitted"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CL10C1R8BB8NNNC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "1.8pF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C806" ("C806"); Footprint = "CAPC1608X90N"; UniqueID = "\THNZLZMH\LOXLGLRE" ("\THNZLZMH\LOXLGLRE")
+Change component parameters (AddParameter): Name = "Fitted"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CL10B104KB8NNNL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C807" ("C807"); Footprint = "CAPC1608X90N"; UniqueID = "\THNZLZMH\CCRKDJGH" ("\THNZLZMH\CCRKDJGH")
+Change component parameters (AddParameter): Name = "Fitted"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CL10A105KB8NNNC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "1uF/50V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C810" ("C810"); Footprint = "CAPC1608X90N"; UniqueID = "\THNZLZMH\VYXTPZJX" ("\THNZLZMH\VYXTPZJX")
+Change component parameters (AddParameter): Name = "Fitted"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CL10B104KB8NNNL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C901" ("C901"); Footprint = "CAPC1608X90N"; UniqueID = "\UOYBLRAZ\RIYZFZIU" ("\UOYBLRAZ\RIYZFZIU")
+Change component parameters (AddParameter): Name = "Fitted"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CL10B104KB8NNNL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C902" ("C902"); Footprint = "CAPC1608X90N"; UniqueID = "\UOYBLRAZ\MVIMXQLS" ("\UOYBLRAZ\MVIMXQLS")
+Change component parameters (AddParameter): Name = "Fitted"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CL10A105KO8NNNC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "1uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C903" ("C903"); Footprint = "CAPC1608X90N"; UniqueID = "\UOYBLRAZ\BTFTFKHN" ("\UOYBLRAZ\BTFTFKHN")
+Change component parameters (AddParameter): Name = "Fitted"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CL10C101JB8NNNC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "100pF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C904" ("C904"); Footprint = "CAPC1608X90N"; UniqueID = "\UOYBLRAZ\ITRLBZZU" ("\UOYBLRAZ\ITRLBZZU")
+Change component parameters (AddParameter): Name = "Fitted"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CL10B104KB8NNNL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C905" ("C905"); Footprint = "CAPC1608X90N"; UniqueID = "\UOYBLRAZ\UUEBBRJU" ("\UOYBLRAZ\UUEBBRJU")
+Change component parameters (AddParameter): Name = "Fitted"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CL10B104KB8NNNL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C906" ("C906"); Footprint = "CAPC1608X90N"; UniqueID = "\UOYBLRAZ\ACCESPQD" ("\UOYBLRAZ\ACCESPQD")
+Change component parameters (AddParameter): Name = "Fitted"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CL10C101JB8NNNC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "100pF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C907" ("C907"); Footprint = "CAPC1608X90N"; UniqueID = "\UOYBLRAZ\QTELZHSR" ("\UOYBLRAZ\QTELZHSR")
+Change component parameters (AddParameter): Name = "Fitted"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CL10B104KB8NNNL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C1001" ("C1001"); Footprint = "CAPC1608X90N"; UniqueID = "\BIJDLTVV\SZQOYRIL" ("\BIJDLTVV\SZQOYRIL")
+Change component parameters (AddParameter): Name = "Fitted"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CL10B104KB8NNNL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C1201" ("C1201"); Footprint = "CAPC1608X90N"; UniqueID = "\TPHWRTUV\SDJCRSAV" ("\TPHWRTUV\SDJCRSAV")
+Change component parameters (AddParameter): Name = "Fitted"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CL10C150JB81PNC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "15pF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C1202" ("C1202"); Footprint = "CAPC1608X90N"; UniqueID = "\TPHWRTUV\UDRWTRFU" ("\TPHWRTUV\UDRWTRFU")
+Change component parameters (AddParameter): Name = "Fitted"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CL10B104KB8NNNL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C1203" ("C1203"); Footprint = "CAPC1608X90N"; UniqueID = "\TPHWRTUV\SSVMBIHZ" ("\TPHWRTUV\SSVMBIHZ")
+Change component parameters (AddParameter): Name = "Fitted"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "GRM188D70E476ME01D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "47uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C1205" ("C1205"); Footprint = "CAPC1608X90N"; UniqueID = "\TPHWRTUV\DYFRRLKX" ("\TPHWRTUV\DYFRRLKX")
+Change component parameters (AddParameter): Name = "Fitted"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CL10B104KB8NNNL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C1206" ("C1206"); Footprint = "CAPC1608X90N"; UniqueID = "\TPHWRTUV\EYUWKBOD" ("\TPHWRTUV\EYUWKBOD")
+Change component parameters (AddParameter): Name = "Fitted"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CL10A475KQ8NNNC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "4.7uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C1207" ("C1207"); Footprint = "CAPC1608X90N"; UniqueID = "\TPHWRTUV\OFLOGHAJ" ("\TPHWRTUV\OFLOGHAJ")
+Change component parameters (AddParameter): Name = "Fitted"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CL10A475KQ8NNNC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "4.7uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C1208" ("C1208"); Footprint = "CAPC1608X90N"; UniqueID = "\TPHWRTUV\GVWESDUQ" ("\TPHWRTUV\GVWESDUQ")
+Change component parameters (AddParameter): Name = "Fitted"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CL10C150JB81PNC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "15pF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C1209" ("C1209"); Footprint = "CAPC1608X90N"; UniqueID = "\TPHWRTUV\MTFXODZT" ("\TPHWRTUV\MTFXODZT")
+Change component parameters (AddParameter): Name = "Fitted"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CL10B104KB8NNNL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C1210" ("C1210"); Footprint = "CAPC1608X90N"; UniqueID = "\TPHWRTUV\ZHXIQGAT" ("\TPHWRTUV\ZHXIQGAT")
+Change component parameters (AddParameter): Name = "Fitted"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "GRM188D70E476ME01D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "47uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C1211" ("C1211"); Footprint = "CAPC1608X90N"; UniqueID = "\TPHWRTUV\BSQWNEEB" ("\TPHWRTUV\BSQWNEEB")
+Change component parameters (AddParameter): Name = "Fitted"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CL10C3R3CB81PNC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "3.5pF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C1212" ("C1212"); Footprint = "CAPC1608X90N"; UniqueID = "\TPHWRTUV\SHPYXWBH" ("\TPHWRTUV\SHPYXWBH")
+Change component parameters (AddParameter): Name = "Fitted"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "N.C."; VariantName = "[No Variations]"
+Change component parameters: Designator = "C1213" ("C1213"); Footprint = "CAPC1608X90N"; UniqueID = "\TPHWRTUV\TONORLXI" ("\TPHWRTUV\TONORLXI")
+Change component parameters (AddParameter): Name = "Fitted"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "N.C."; VariantName = "[No Variations]"
+Change component parameters: Designator = "C1214" ("C1214"); Footprint = "CAPC1608X90N"; UniqueID = "\TPHWRTUV\CWFZBZAG" ("\TPHWRTUV\CWFZBZAG")
+Change component parameters (AddParameter): Name = "Fitted"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "N.C."; VariantName = "[No Variations]"
+Change component parameters: Designator = "C1215" ("C1215"); Footprint = "CAPC1608X90N"; UniqueID = "\TPHWRTUV\GPJFZYJG" ("\TPHWRTUV\GPJFZYJG")
+Change component parameters (AddParameter): Name = "Fitted"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CL10B104KB8NNNL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C1216" ("C1216"); Footprint = "CAPC1608X90N"; UniqueID = "\TPHWRTUV\ZTJCDLUA" ("\TPHWRTUV\ZTJCDLUA")
+Change component parameters (AddParameter): Name = "Fitted"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CL10A105KO8NNNC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "1uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C1217" ("C1217"); Footprint = "CAPC1608X90N"; UniqueID = "\TPHWRTUV\VAJMGCOW" ("\TPHWRTUV\VAJMGCOW")
+Change component parameters (AddParameter): Name = "Fitted"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CL10A105KO8NNNC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "1uF"; VariantName = "[No Variations]"
